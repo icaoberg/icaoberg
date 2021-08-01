@@ -5,8 +5,6 @@ I am research software specialist at the [Pittsburgh Supercomputing Center (PSC)
 
 I enjoy writing or contributing to open source projects, reusing old tech, playing with new tech, cooking and listening to good music.
 
-<iframe src="https://open.spotify.com/embed/playlist/0RwwyLy2vt89HzboilXy41" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
