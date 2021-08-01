@@ -3,7 +3,7 @@ I am research software specialist at the [Pittsburgh Supercomputing Center (PSC)
 
 I enjoy writing or contributing to open source projects, reusing old tech, playing with new tech, cooking and listening to good music.
 
-# Latest blog posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
