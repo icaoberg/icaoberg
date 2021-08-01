@@ -1,5 +1,5 @@
 # About Me
-I am research software specialist at the Pittsburgh Supercomputing Center (PSC) tinkering with technology in scientific related projects.
+I am research software specialist at the [Pittsburgh Supercomputing Center (PSC)](https://www.psc.edu/) tinkering with technology in scientific related projects.
 
 I enjoy writing or contributing to open source projects, reusing old tech, playing with new tech, cooking and listening to good music.
 
