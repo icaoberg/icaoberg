@@ -16,10 +16,10 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 <!--END_SECTION:activity-->
 
 ### Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
 ### Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,CSS,M)
 
 # Reddit
 <!-- BLOG-POST-LIST:START -->
