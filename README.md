@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/pscedu/singularity-bedtools/issues/4) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
-2. 🗣 Commented on [#4](https://github.com/pscedu/singularity-bedtools/issues/4) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
-3. 🎉 Merged PR [#8](https://github.com/pscedu/singularity-bedtools/pull/8) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
-4. 💪 Opened PR [#8](https://github.com/pscedu/singularity-bedtools/pull/8) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
-5. ❗️ Closed issue [#3](https://github.com/pscedu/singularity-bedtools/issues/3) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
+1. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-sra-toolkit/pull/1) in [pscedu/singularity-sra-toolkit](https://github.com/pscedu/singularity-sra-toolkit)
+2. ❗️ Closed issue [#4](https://github.com/pscedu/singularity-bedtools/issues/4) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
+3. 🗣 Commented on [#4](https://github.com/pscedu/singularity-bedtools/issues/4) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
+4. 🎉 Merged PR [#8](https://github.com/pscedu/singularity-bedtools/pull/8) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
+5. 💪 Opened PR [#8](https://github.com/pscedu/singularity-bedtools/pull/8) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
 <!--END_SECTION:activity-->
 
 ### Statistics
