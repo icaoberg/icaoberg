@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/icaoberg/singularity-boxes/pull/1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
-2. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-viennarna/pull/1) in [pscedu/singularity-viennarna](https://github.com/pscedu/singularity-viennarna)
-3. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-sra-toolkit/pull/1) in [pscedu/singularity-sra-toolkit](https://github.com/pscedu/singularity-sra-toolkit)
-4. ❗️ Closed issue [#4](https://github.com/pscedu/singularity-bedtools/issues/4) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
-5. 🗣 Commented on [#4](https://github.com/pscedu/singularity-bedtools/issues/4) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
+1. 🎉 Merged PR [#1](https://github.com/icaoberg/singularity-boxes/pull/1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
+2. 💪 Opened PR [#1](https://github.com/icaoberg/singularity-boxes/pull/1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
+3. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-viennarna/pull/1) in [pscedu/singularity-viennarna](https://github.com/pscedu/singularity-viennarna)
+4. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-sra-toolkit/pull/1) in [pscedu/singularity-sra-toolkit](https://github.com/pscedu/singularity-sra-toolkit)
+5. ❗️ Closed issue [#4](https://github.com/pscedu/singularity-bedtools/issues/4) in [pscedu/singularity-bedtools](https://github.com/pscedu/singularity-bedtools)
 <!--END_SECTION:activity-->
 
 ### Statistics
