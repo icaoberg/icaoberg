@@ -8,7 +8,7 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/pscedu/singularity-asciinema/pull/3) in [pscedu/singularity-asciinema](https://github.com/pscedu/singularity-asciinema)
+1. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-busco/pull/1) in [pscedu/singularity-busco](https://github.com/pscedu/singularity-busco)
 2. 💪 Opened PR [#3](https://github.com/pscedu/singularity-asciinema/pull/3) in [pscedu/singularity-asciinema](https://github.com/pscedu/singularity-asciinema)
 3. ❌ Closed PR [#4](https://github.com/pscedu/singularity/pull/4) in [pscedu/singularity](https://github.com/pscedu/singularity)
 4. 🎉 Merged PR [#5](https://github.com/pscedu/singularity/pull/5) in [pscedu/singularity](https://github.com/pscedu/singularity)
