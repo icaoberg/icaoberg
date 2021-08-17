@@ -8,9 +8,9 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#937](https://github.com/hubmapconsortium/ingest-validation-tools/pull/937) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-busco/pull/1) in [pscedu/singularity-busco](https://github.com/pscedu/singularity-busco)
-3. ❌ Closed PR [#4](https://github.com/pscedu/singularity/pull/4) in [pscedu/singularity](https://github.com/pscedu/singularity)
+1. 🗣 Commented on [#2](https://github.com/pscedu/singularity-sra-toolkit/issues/2) in [pscedu/singularity-sra-toolkit](https://github.com/pscedu/singularity-sra-toolkit)
+2. 🎉 Merged PR [#2](https://github.com/pscedu/singularity-samtools/pull/2) in [pscedu/singularity-samtools](https://github.com/pscedu/singularity-samtools)
+3. 💪 Opened PR [#937](https://github.com/hubmapconsortium/ingest-validation-tools/pull/937) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 4. 🎉 Merged PR [#5](https://github.com/pscedu/singularity/pull/5) in [pscedu/singularity](https://github.com/pscedu/singularity)
 5. 💪 Opened PR [#5](https://github.com/pscedu/singularity/pull/5) in [pscedu/singularity](https://github.com/pscedu/singularity)
 <!--END_SECTION:activity-->
