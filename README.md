@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/pscedu/singularity-graphviz/issues/10) in [pscedu/singularity-graphviz](https://github.com/pscedu/singularity-graphviz)
-2. 🎉 Merged PR [#7](https://github.com/pscedu/singularity-dust/pull/7) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
-3. 💪 Opened PR [#7](https://github.com/pscedu/singularity-dust/pull/7) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
-4. ❗️ Closed issue [#2](https://github.com/pscedu/singularity-hisat2/issues/2) in [pscedu/singularity-hisat2](https://github.com/pscedu/singularity-hisat2)
-5. 🗣 Commented on [#9](https://github.com/pscedu/singularity-bamtools/issues/9) in [pscedu/singularity-bamtools](https://github.com/pscedu/singularity-bamtools)
+1. ❗️ Closed issue [#1](https://github.com/pscedu/singularity-bedops/issues/1) in [pscedu/singularity-bedops](https://github.com/pscedu/singularity-bedops)
+2. ❗️ Closed issue [#10](https://github.com/pscedu/singularity-graphviz/issues/10) in [pscedu/singularity-graphviz](https://github.com/pscedu/singularity-graphviz)
+3. 🎉 Merged PR [#7](https://github.com/pscedu/singularity-dust/pull/7) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
+4. 💪 Opened PR [#7](https://github.com/pscedu/singularity-dust/pull/7) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
+5. ❗️ Closed issue [#2](https://github.com/pscedu/singularity-hisat2/issues/2) in [pscedu/singularity-hisat2](https://github.com/pscedu/singularity-hisat2)
 <!--END_SECTION:activity-->
 
 ### Statistics
