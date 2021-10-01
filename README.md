@@ -8,9 +8,9 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/pscedu/singularity-bedops/issues/1) in [pscedu/singularity-bedops](https://github.com/pscedu/singularity-bedops)
-2. ❗️ Closed issue [#10](https://github.com/pscedu/singularity-graphviz/issues/10) in [pscedu/singularity-graphviz](https://github.com/pscedu/singularity-graphviz)
-3. 🎉 Merged PR [#7](https://github.com/pscedu/singularity-dust/pull/7) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
+1. 💪 Opened PR [#958](https://github.com/hubmapconsortium/ingest-validation-tools/pull/958) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. ❗️ Closed issue [#1](https://github.com/pscedu/singularity-bedops/issues/1) in [pscedu/singularity-bedops](https://github.com/pscedu/singularity-bedops)
+3. ❗️ Closed issue [#10](https://github.com/pscedu/singularity-graphviz/issues/10) in [pscedu/singularity-graphviz](https://github.com/pscedu/singularity-graphviz)
 4. 💪 Opened PR [#7](https://github.com/pscedu/singularity-dust/pull/7) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
 5. ❗️ Closed issue [#2](https://github.com/pscedu/singularity-hisat2/issues/2) in [pscedu/singularity-hisat2](https://github.com/pscedu/singularity-hisat2)
 <!--END_SECTION:activity-->
