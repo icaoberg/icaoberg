@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#987](https://github.com/hubmapconsortium/ingest-validation-tools/pull/987) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. 🗣 Commented on [#939](https://github.com/hubmapconsortium/ingest-validation-tools/issues/939) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-3. 💪 Opened PR [#964](https://github.com/hubmapconsortium/ingest-validation-tools/pull/964) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-4. ❌ Closed PR [#937](https://github.com/hubmapconsortium/ingest-validation-tools/pull/937) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-5. 💪 Opened PR [#958](https://github.com/hubmapconsortium/ingest-validation-tools/pull/958) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. 🎉 Merged PR [#987](https://github.com/hubmapconsortium/ingest-validation-tools/pull/987) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. 💪 Opened PR [#987](https://github.com/hubmapconsortium/ingest-validation-tools/pull/987) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. 🗣 Commented on [#939](https://github.com/hubmapconsortium/ingest-validation-tools/issues/939) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+4. 💪 Opened PR [#964](https://github.com/hubmapconsortium/ingest-validation-tools/pull/964) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+5. ❌ Closed PR [#937](https://github.com/hubmapconsortium/ingest-validation-tools/pull/937) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
 
 ### Statistics
