@@ -8,10 +8,10 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#990](https://github.com/hubmapconsortium/ingest-validation-tools/issues/990) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. 🎉 Merged PR [#989](https://github.com/hubmapconsortium/ingest-validation-tools/pull/989) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-3. ❗️ Opened issue [#991](https://github.com/hubmapconsortium/ingest-validation-tools/issues/991) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-4. 🗣 Commented on [#989](https://github.com/hubmapconsortium/ingest-validation-tools/issues/989) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. 🎉 Merged PR [#990](https://github.com/hubmapconsortium/ingest-validation-tools/pull/990) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. 🗣 Commented on [#990](https://github.com/hubmapconsortium/ingest-validation-tools/issues/990) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. 🎉 Merged PR [#989](https://github.com/hubmapconsortium/ingest-validation-tools/pull/989) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+4. ❗️ Opened issue [#991](https://github.com/hubmapconsortium/ingest-validation-tools/issues/991) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 5. 🗣 Commented on [#989](https://github.com/hubmapconsortium/ingest-validation-tools/issues/989) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
 
