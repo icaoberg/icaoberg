@@ -10,9 +10,9 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1026](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1026) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 2. 🗣 Commented on [#1026](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1026) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-3. ❗️ Opened issue [#5](https://github.com/pscedu/singularity-imagemagick/issues/5) in [pscedu/singularity-imagemagick](https://github.com/pscedu/singularity-imagemagick)
-4. ❗️ Opened issue [#44](https://github.com/hubmapconsortium/uuid-api/issues/44) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-5. ❗️ Reopened issue [#999](https://github.com/hubmapconsortium/ingest-validation-tools/issues/999) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. 🗣 Commented on [#1026](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1026) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+4. 🗣 Commented on [#1026](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1026) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+5. ❗️ Opened issue [#5](https://github.com/pscedu/singularity-imagemagick/issues/5) in [pscedu/singularity-imagemagick](https://github.com/pscedu/singularity-imagemagick)
 <!--END_SECTION:activity-->
 
 ### Statistics
