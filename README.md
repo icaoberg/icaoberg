@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/hubmapconsortium/uuid-api/issues/58) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-2. ❗️ Opened issue [#57](https://github.com/hubmapconsortium/uuid-api/issues/57) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-3. 🗣 Commented on [#1026](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1026) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-4. 🗣 Commented on [#1026](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1026) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-5. 💪 Opened PR [#1028](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1028) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. ❌ Closed PR [#992](https://github.com/hubmapconsortium/ingest-validation-tools/pull/992) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. 🎉 Merged PR [#1028](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1028) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. 🗣 Commented on [#1053](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1053) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+4. 💪 Opened PR [#1054](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1054) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+5. ❗️ Opened issue [#58](https://github.com/hubmapconsortium/uuid-api/issues/58) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
 <!--END_SECTION:activity-->
 
 ### Statistics
