@@ -8,10 +8,10 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1056](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1056) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. 🗣 Commented on [#1060](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1060) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-3. 🗣 Commented on [#1061](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1061) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-4. 🗣 Commented on [#1063](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1063) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. ❗️ Closed issue [#58](https://github.com/hubmapconsortium/uuid-api/issues/58) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
+2. 🗣 Commented on [#58](https://github.com/hubmapconsortium/uuid-api/issues/58) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
+3. 🗣 Commented on [#57](https://github.com/hubmapconsortium/uuid-api/issues/57) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
+4. 🗣 Commented on [#1056](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1056) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 5. 💪 Opened PR [#1063](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1063) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
 
