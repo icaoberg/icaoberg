@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/hubmapconsortium/py-hubmapbags/issues/1) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 🗣 Commented on [#559](https://github.com/hubmapconsortium/ingest-pipeline/issues/559) in [hubmapconsortium/ingest-pipeline](https://github.com/hubmapconsortium/ingest-pipeline)
-3. ❗️ Opened issue [#25](https://github.com/hubmapconsortium/cfde-bdbag/issues/25) in [hubmapconsortium/cfde-bdbag](https://github.com/hubmapconsortium/cfde-bdbag)
-4. ❗️ Closed issue [#58](https://github.com/hubmapconsortium/uuid-api/issues/58) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-5. 🗣 Commented on [#58](https://github.com/hubmapconsortium/uuid-api/issues/58) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
+1. ❗️ Opened issue [#14](https://github.com/hubmapconsortium/python-sdk/issues/14) in [hubmapconsortium/python-sdk](https://github.com/hubmapconsortium/python-sdk)
+2. ❗️ Opened issue [#13](https://github.com/hubmapconsortium/python-sdk/issues/13) in [hubmapconsortium/python-sdk](https://github.com/hubmapconsortium/python-sdk)
+3. ❗️ Opened issue [#1](https://github.com/hubmapconsortium/py-hubmapbags/issues/1) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🗣 Commented on [#559](https://github.com/hubmapconsortium/ingest-pipeline/issues/559) in [hubmapconsortium/ingest-pipeline](https://github.com/hubmapconsortium/ingest-pipeline)
+5. ❗️ Opened issue [#25](https://github.com/hubmapconsortium/cfde-bdbag/issues/25) in [hubmapconsortium/cfde-bdbag](https://github.com/hubmapconsortium/cfde-bdbag)
 <!--END_SECTION:activity-->
 
 ### Statistics
