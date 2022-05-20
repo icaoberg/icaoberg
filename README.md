@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1076](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1076) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. 🎉 Merged PR [#1089](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1089) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-3. 🎉 Merged PR [#2](https://github.com/hubmapconsortium/py-hubmapbags/pull/2) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🎉 Merged PR [#11](https://github.com/hubmapconsortium/python-sdk/pull/11) in [hubmapconsortium/python-sdk](https://github.com/hubmapconsortium/python-sdk)
-5. 💪 Opened PR [#16](https://github.com/brain-image-library/bil_info_site/pull/16) in [brain-image-library/bil_info_site](https://github.com/brain-image-library/bil_info_site)
+1. 🎉 Merged PR [#1076](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1076) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. 🗣 Commented on [#1076](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1076) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. 🎉 Merged PR [#1089](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1089) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+4. 🎉 Merged PR [#2](https://github.com/hubmapconsortium/py-hubmapbags/pull/2) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🎉 Merged PR [#11](https://github.com/hubmapconsortium/python-sdk/pull/11) in [hubmapconsortium/python-sdk](https://github.com/hubmapconsortium/python-sdk)
 <!--END_SECTION:activity-->
 
 ### Statistics
