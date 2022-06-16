@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#521](https://github.com/hubmapconsortium/search-api/pull/521) in [hubmapconsortium/search-api](https://github.com/hubmapconsortium/search-api)
-2. ❗️ Opened issue [#1105](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1105) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-3. 🎉 Merged PR [#1104](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1104) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-4. ❗️ Closed issue [#1098](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1098) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-5. ❗️ Closed issue [#1097](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1097) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. ❗️ Opened issue [#24](https://github.com/hubmapconsortium/py-hubmapbags/issues/24) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. ❗️ Opened issue [#23](https://github.com/hubmapconsortium/py-hubmapbags/issues/23) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 💪 Opened PR [#521](https://github.com/hubmapconsortium/search-api/pull/521) in [hubmapconsortium/search-api](https://github.com/hubmapconsortium/search-api)
+4. ❗️ Opened issue [#1105](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1105) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+5. 🎉 Merged PR [#1104](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1104) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
 
 ### Statistics
