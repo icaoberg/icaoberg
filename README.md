@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#101](https://github.com/hubmapconsortium/uuid-api/issues/101) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-2. 💪 Opened PR [#26](https://github.com/hubmapconsortium/py-hubmapbags/pull/26) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. ❗️ Opened issue [#25](https://github.com/hubmapconsortium/py-hubmapbags/issues/25) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. ❗️ Opened issue [#24](https://github.com/hubmapconsortium/py-hubmapbags/issues/24) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. ❗️ Opened issue [#23](https://github.com/hubmapconsortium/py-hubmapbags/issues/23) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🗣 Commented on [#101](https://github.com/hubmapconsortium/uuid-api/issues/101) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
+2. ❗️ Opened issue [#101](https://github.com/hubmapconsortium/uuid-api/issues/101) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
+3. 💪 Opened PR [#26](https://github.com/hubmapconsortium/py-hubmapbags/pull/26) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. ❗️ Opened issue [#25](https://github.com/hubmapconsortium/py-hubmapbags/issues/25) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. ❗️ Opened issue [#24](https://github.com/hubmapconsortium/py-hubmapbags/issues/24) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
