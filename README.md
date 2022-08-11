@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com/icaoberg/falcon/pull/19) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
-2. 🗣 Commented on [#101](https://github.com/hubmapconsortium/uuid-api/issues/101) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-3. 🗣 Commented on [#101](https://github.com/hubmapconsortium/uuid-api/issues/101) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-4. ❗️ Opened issue [#101](https://github.com/hubmapconsortium/uuid-api/issues/101) in [hubmapconsortium/uuid-api](https://github.com/hubmapconsortium/uuid-api)
-5. 💪 Opened PR [#26](https://github.com/hubmapconsortium/py-hubmapbags/pull/26) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🎉 Merged PR [#23](https://github.com/icaoberg/falcon/pull/23) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
+2. 🎉 Merged PR [#21](https://github.com/icaoberg/falcon/pull/21) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
+3. 🎉 Merged PR [#20](https://github.com/icaoberg/falcon/pull/20) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
+4. 🎉 Merged PR [#22](https://github.com/icaoberg/falcon/pull/22) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
+5. 💪 Opened PR [#22](https://github.com/icaoberg/falcon/pull/22) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
 <!--END_SECTION:activity-->
 
 ### Statistics
