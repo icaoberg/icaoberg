@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1133](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1133) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. 🎉 Merged PR [#23](https://github.com/icaoberg/falcon/pull/23) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
-3. 🎉 Merged PR [#21](https://github.com/icaoberg/falcon/pull/21) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
-4. 🎉 Merged PR [#20](https://github.com/icaoberg/falcon/pull/20) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
-5. 🎉 Merged PR [#22](https://github.com/icaoberg/falcon/pull/22) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
+1. 💪 Opened PR [#1134](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1134) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. ❗️ Opened issue [#1133](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1133) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. 🎉 Merged PR [#23](https://github.com/icaoberg/falcon/pull/23) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
+4. 🎉 Merged PR [#21](https://github.com/icaoberg/falcon/pull/21) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
+5. 🎉 Merged PR [#20](https://github.com/icaoberg/falcon/pull/20) in [icaoberg/falcon](https://github.com/icaoberg/falcon)
 <!--END_SECTION:activity-->
 
 ### Statistics
