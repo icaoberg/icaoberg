@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1141](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1141) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. ❗️ Closed issue [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1)
-3. 🗣 Commented on [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1)
-4. 🎉 Merged PR [#1135](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1135) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-5. ❌ Closed PR [#1120](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1120) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. 🗣 Commented on [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-3/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-3](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-3)
+2. 💪 Opened PR [#1141](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1141) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. ❗️ Closed issue [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1)
+4. 🗣 Commented on [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-1)
+5. 🎉 Merged PR [#1135](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1135) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
 
 ### Statistics
