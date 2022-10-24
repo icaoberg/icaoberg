@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
-2. 🗣 Commented on [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
-3. 🗣 Commented on [#2](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/2) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
-4. 🗣 Commented on [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
-5. ❗️ Closed issue [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-4/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-4](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-homework-4)
+1. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
+2. ❗️ Closed issue [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
+3. 🗣 Commented on [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
+4. 🗣 Commented on [#2](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/2) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
+5. 🗣 Commented on [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
 <!--END_SECTION:activity-->
 
 ### Statistics
