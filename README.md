@@ -10,9 +10,9 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
 2. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
-3. ❗️ Reopened issue [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
-4. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
-5. ❗️ Closed issue [#1](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project/issues/1) in [CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project](https://github.com/CMU-MS-DAS-Modern-Programming-Mini/fall2022-final-project)
+3. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
+4. ❗️ Reopened issue [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
+5. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
 <!--END_SECTION:activity-->
 
 ### Statistics
