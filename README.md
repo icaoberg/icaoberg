@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
+1. ❗️ Opened issue [#1](https://github.com/icaoberg/comunidadvengadora/issues/1) in [icaoberg/comunidadvengadora](https://github.com/icaoberg/comunidadvengadora)
 2. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
 3. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
 4. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
-5. ❗️ Reopened issue [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
+5. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
 <!--END_SECTION:activity-->
 
 ### Statistics
