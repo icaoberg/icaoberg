@@ -8,8 +8,8 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/icaoberg/comunidadvengadora/issues/1) in [icaoberg/comunidadvengadora](https://github.com/icaoberg/comunidadvengadora)
-2. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
+1. 💪 Opened PR [#1150](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1150) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. ❗️ Opened issue [#1](https://github.com/icaoberg/comunidadvengadora/issues/1) in [icaoberg/comunidadvengadora](https://github.com/icaoberg/comunidadvengadora)
 3. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
 4. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
 5. 🗣 Commented on [#2](https://github.com/icaoberg/la-venganza-sera-terrible/issues/2) in [icaoberg/la-venganza-sera-terrible](https://github.com/icaoberg/la-venganza-sera-terrible)
