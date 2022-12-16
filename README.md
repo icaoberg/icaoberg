@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#150](https://github.com/hubmapconsortium/manual-data-ingest/issues/150) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
-2. 🎉 Merged PR [#27](https://github.com/hubmapconsortium/py-hubmapbags/pull/27) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🎉 Merged PR [#1141](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1141) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-4. ❗️ Opened issue [#1157](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1157) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-5. 🎉 Merged PR [#1148](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1148) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. 🗣 Commented on [#150](https://github.com/hubmapconsortium/manual-data-ingest/issues/150) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
+2. ❗️ Opened issue [#150](https://github.com/hubmapconsortium/manual-data-ingest/issues/150) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
+3. 🎉 Merged PR [#27](https://github.com/hubmapconsortium/py-hubmapbags/pull/27) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🎉 Merged PR [#1141](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1141) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+5. ❗️ Opened issue [#1157](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1157) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
 
 ### Statistics
