@@ -23,9 +23,9 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 
 # Reddit
 <!-- BLOG-POST-LIST:START -->
-- [Thank you mr rick](https://www.reddit.com/r/u_icaoberg/comments/pvvwci/thank_you_mr_rick/)
-- [Random circles with ImageMagick](https://www.reddit.com/r/u_icaoberg/comments/p04t90/random_circles_with_imagemagick/)
-- [The art of sharing...](https://www.reddit.com/r/u_icaoberg/comments/oyp9pc/the_art_of_sharing/)
-- [I know what I choose…](https://www.reddit.com/r/u_icaoberg/comments/oyoolb/i_know_what_i_choose/)
-- [I just wanted to view my saved password using inspect element](https://www.reddit.com/r/u_icaoberg/comments/oyol4r/i_just_wanted_to_view_my_saved_password_using/)
+- [When the soundtrack of life is too good to just walk ❤️❤️](https://www.reddit.com/r/u_icaoberg/comments/wp4k9l/when_the_soundtrack_of_life_is_too_good_to_just/)
+- [Mom&#39;s superpowers strike again😁😍♥️🙏 |CHEFKOUDY](https://www.reddit.com/r/u_icaoberg/comments/wmxngf/moms_superpowers_strike_again_chefkoudy/)
+- [Is anyone else like this? 😅](https://www.reddit.com/r/u_icaoberg/comments/wkq82y/is_anyone_else_like_this/)
+- [The first thing she said to me last night. I never know what to expect with sweet Ketchup. 🤣](https://www.reddit.com/r/u_icaoberg/comments/ty1h5z/the_first_thing_she_said_to_me_last_night_i_never/)
+- [The Only Way [OC]](https://www.reddit.com/r/u_icaoberg/comments/ty1cfr/the_only_way_oc/)
 <!-- BLOG-POST-LIST:END -->
