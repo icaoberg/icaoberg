@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1161](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1161) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. 🗣 Commented on [#150](https://github.com/hubmapconsortium/manual-data-ingest/issues/150) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
-3. ❗️ Opened issue [#150](https://github.com/hubmapconsortium/manual-data-ingest/issues/150) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
-4. 🎉 Merged PR [#27](https://github.com/hubmapconsortium/py-hubmapbags/pull/27) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🎉 Merged PR [#1141](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1141) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. ❗️ Closed issue [#1160](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1160) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. 🎉 Merged PR [#1161](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1161) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. 🗣 Commented on [#1161](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1161) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+4. 🗣 Commented on [#150](https://github.com/hubmapconsortium/manual-data-ingest/issues/150) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
+5. ❗️ Opened issue [#150](https://github.com/hubmapconsortium/manual-data-ingest/issues/150) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
 <!--END_SECTION:activity-->
 
 ### Statistics
