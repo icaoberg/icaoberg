@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/hubmapconsortium/metadata-consistency/issues/4) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-2. ❗️ Opened issue [#3](https://github.com/hubmapconsortium/metadata-consistency/issues/3) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-3. ❗️ Opened issue [#2](https://github.com/hubmapconsortium/metadata-consistency/issues/2) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-4. 🗣 Commented on [#1](https://github.com/hubmapconsortium/metadata-consistency/issues/1) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-5. ❗️ Opened issue [#1](https://github.com/hubmapconsortium/metadata-consistency/issues/1) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+1. ❗️ Opened issue [#5](https://github.com/hubmapconsortium/metadata-consistency/issues/5) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+2. ❗️ Opened issue [#4](https://github.com/hubmapconsortium/metadata-consistency/issues/4) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+3. ❗️ Opened issue [#3](https://github.com/hubmapconsortium/metadata-consistency/issues/3) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+4. ❗️ Opened issue [#2](https://github.com/hubmapconsortium/metadata-consistency/issues/2) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+5. 🗣 Commented on [#1](https://github.com/hubmapconsortium/metadata-consistency/issues/1) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
 <!--END_SECTION:activity-->
 
 ### Statistics
