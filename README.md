@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hubmapconsortium/metadata-consistency/issues/1) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-2. ❗️ Opened issue [#1](https://github.com/hubmapconsortium/metadata-consistency/issues/1) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-3. ❗️ Opened issue [#152](https://github.com/hubmapconsortium/manual-data-ingest/issues/152) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
-4. ❗️ Closed issue [#1160](https://github.com/hubmapconsortium/ingest-validation-tools/issues/1160) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-5. 🎉 Merged PR [#1161](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1161) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. ❗️ Opened issue [#4](https://github.com/hubmapconsortium/metadata-consistency/issues/4) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+2. ❗️ Opened issue [#3](https://github.com/hubmapconsortium/metadata-consistency/issues/3) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+3. ❗️ Opened issue [#2](https://github.com/hubmapconsortium/metadata-consistency/issues/2) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+4. 🗣 Commented on [#1](https://github.com/hubmapconsortium/metadata-consistency/issues/1) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+5. ❗️ Opened issue [#1](https://github.com/hubmapconsortium/metadata-consistency/issues/1) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
 <!--END_SECTION:activity-->
 
 ### Statistics
