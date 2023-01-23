@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1164](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1164) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
-2. ❗️ Opened issue [#612](https://github.com/hubmapconsortium/search-api/issues/612) in [hubmapconsortium/search-api](https://github.com/hubmapconsortium/search-api)
-3. 🗣 Commented on [#2](https://github.com/hubmapconsortium/metadata-consistency/issues/2) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-4. 🗣 Commented on [#3](https://github.com/hubmapconsortium/metadata-consistency/issues/3) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-5. 🗣 Commented on [#5](https://github.com/hubmapconsortium/metadata-consistency/issues/5) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+1. 💪 Opened PR [#1168](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1168) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+2. 🎉 Merged PR [#1164](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1164) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+3. ❗️ Opened issue [#612](https://github.com/hubmapconsortium/search-api/issues/612) in [hubmapconsortium/search-api](https://github.com/hubmapconsortium/search-api)
+4. 🗣 Commented on [#2](https://github.com/hubmapconsortium/metadata-consistency/issues/2) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+5. 🗣 Commented on [#3](https://github.com/hubmapconsortium/metadata-consistency/issues/3) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
 <!--END_SECTION:activity-->
 
 ### Statistics
