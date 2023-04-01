@@ -8,9 +8,9 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
-2. ❗️ Opened issue [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
-3. 💪 Opened PR [#58](https://github.com/pscedu/psc-wpdocs/pull/58) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
+1. 💪 Opened PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
+2. 🗣 Commented on [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
+3. ❗️ Opened issue [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
 4. 💪 Opened PR [#1168](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1168) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 5. 🎉 Merged PR [#1164](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1164) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
