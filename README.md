@@ -8,10 +8,10 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
-2. 🗣 Commented on [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
-3. ❗️ Opened issue [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
-4. 💪 Opened PR [#1168](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1168) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
+1. 🎉 Merged PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
+2. 💪 Opened PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
+3. 🗣 Commented on [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
+4. ❗️ Opened issue [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
 5. 🎉 Merged PR [#1164](https://github.com/hubmapconsortium/ingest-validation-tools/pull/1164) in [hubmapconsortium/ingest-validation-tools](https://github.com/hubmapconsortium/ingest-validation-tools)
 <!--END_SECTION:activity-->
 
