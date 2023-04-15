@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/hubmapconsortium/metadata-consistency/issues/7) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-2. ❗️ Opened issue [#7](https://github.com/hubmapconsortium/metadata-consistency/issues/7) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
-3. 🎉 Merged PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
-4. 💪 Opened PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
-5. 🗣 Commented on [#2](https://github.com/lanesket/painy/issues/2) in [lanesket/painy](https://github.com/lanesket/painy)
+1. ❗️ Opened issue [#184](https://github.com/hubmapconsortium/manual-data-ingest/issues/184) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
+2. 🗣 Commented on [#7](https://github.com/hubmapconsortium/metadata-consistency/issues/7) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+3. ❗️ Opened issue [#7](https://github.com/hubmapconsortium/metadata-consistency/issues/7) in [hubmapconsortium/metadata-consistency](https://github.com/hubmapconsortium/metadata-consistency)
+4. 🎉 Merged PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
+5. 💪 Opened PR [#2](https://github.com/hubmapconsortium/hubmap-inventory/pull/2) in [hubmapconsortium/hubmap-inventory](https://github.com/hubmapconsortium/hubmap-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
