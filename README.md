@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](https://github.com/hubmapconsortium/py-hubmapbags/pull/26) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 🗣 Commented on [#26](https://github.com/hubmapconsortium/py-hubmapbags/issues/26) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 💪 Opened PR [#28](https://github.com/hubmapconsortium/py-hubmapbags/pull/28) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. ❗️ Opened issue [#190](https://github.com/hubmapconsortium/manual-data-ingest/issues/190) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
-5. 🗣 Commented on [#184](https://github.com/hubmapconsortium/manual-data-ingest/issues/184) in [hubmapconsortium/manual-data-ingest](https://github.com/hubmapconsortium/manual-data-ingest)
+1. ❗️ Closed issue [#5](https://github.com/hubmapconsortium/py-hubmapbags/issues/5) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🗣 Commented on [#5](https://github.com/hubmapconsortium/py-hubmapbags/issues/5) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. ❗️ Closed issue [#3](https://github.com/hubmapconsortium/py-hubmapbags/issues/3) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. ❗️ Closed issue [#20](https://github.com/hubmapconsortium/py-hubmapbags/issues/20) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🗣 Commented on [#20](https://github.com/hubmapconsortium/py-hubmapbags/issues/20) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
