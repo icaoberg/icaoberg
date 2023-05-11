@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/4) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-2. 💪 Opened PR [#4](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/4) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-3. ❗️ Closed issue [#2](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/2) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-4. 🎉 Merged PR [#3](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/3) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-5. 💪 Opened PR [#3](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/3) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+1. 💪 Opened PR [#5](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/5) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+2. 🎉 Merged PR [#4](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/4) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+3. 💪 Opened PR [#4](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/4) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+4. ❗️ Closed issue [#2](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/2) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+5. 🎉 Merged PR [#3](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/3) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
 <!--END_SECTION:activity-->
 
 ### Statistics
