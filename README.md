@@ -9,10 +9,10 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ### Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-2. ❗️ Opened issue [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-3. 🎉 Merged PR [#5](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/5) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-4. ❗️ Opened issue [#7](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/7) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-5. ❗️ Opened issue [#6](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/6) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+2. 🗣 Commented on [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+3. ❗️ Opened issue [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+4. 🎉 Merged PR [#5](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/5) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+5. ❗️ Opened issue [#7](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/7) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
 <!--END_SECTION:activity-->
 
 ### Statistics
