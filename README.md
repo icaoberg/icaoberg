@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/3) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-2. 🔒 Closed issue [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-3. 🎉 Merged PR [#9](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/9) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-4. 💪 Opened PR [#9](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/9) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-5. 💪 Opened PR [#1](https://github.com/pscedu/singularity-funannotate/pull/1) in [pscedu/singularity-funannotate](https://github.com/pscedu/singularity-funannotate)
+1. 💪 Opened PR [#31](https://github.com/hubmapconsortium/py-hubmapbags/pull/31) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. ❗ Opened issue [#3](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/3) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+3. 🔒 Closed issue [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+4. 🎉 Merged PR [#9](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/9) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+5. 💪 Opened PR [#9](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/9) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
 <!--END_SECTION:activity-->
 
 ### Statistics
