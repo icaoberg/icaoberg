@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/hubmapconsortium/py-hubmapbags/pull/32) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 💪 Opened PR [#31](https://github.com/hubmapconsortium/py-hubmapbags/pull/31) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. ❗ Opened issue [#3](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/3) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-4. 🔒 Closed issue [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-5. 🎉 Merged PR [#9](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/9) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+1. 🚀 Published release [Version 1.17.0](https://github.com/Version 1.17.0) in [pscedu/singularity-hyperfine](https://github.com/pscedu/singularity-hyperfine)
+2. 💪 Opened PR [#32](https://github.com/hubmapconsortium/py-hubmapbags/pull/32) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 💪 Opened PR [#31](https://github.com/hubmapconsortium/py-hubmapbags/pull/31) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. ❗ Opened issue [#3](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/3) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+5. 🔒 Closed issue [#8](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/8) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
 <!--END_SECTION:activity-->
 
 ### Statistics
