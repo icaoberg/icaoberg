@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/hubmapconsortium/py-hubmapbags/issues/33) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. ❗ Opened issue [#33](https://github.com/hubmapconsortium/py-hubmapbags/issues/33) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🎉 Merged PR [#32](https://github.com/hubmapconsortium/py-hubmapbags/pull/32) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🚀 Published release [Version 1.17.0](https://github.com/Version 1.17.0) in [pscedu/singularity-hyperfine](https://github.com/pscedu/singularity-hyperfine)
-5. 💪 Opened PR [#32](https://github.com/hubmapconsortium/py-hubmapbags/pull/32) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. ❗ Opened issue [#3](https://github.com/brain-image-library/py-brain-inventory/issues/3) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+2. 🗣 Commented on [#33](https://github.com/hubmapconsortium/py-hubmapbags/issues/33) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. ❗ Opened issue [#33](https://github.com/hubmapconsortium/py-hubmapbags/issues/33) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🎉 Merged PR [#32](https://github.com/hubmapconsortium/py-hubmapbags/pull/32) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🚀 Published release [Version 1.17.0](https://github.com/Version 1.17.0) in [pscedu/singularity-hyperfine](https://github.com/pscedu/singularity-hyperfine)
 <!--END_SECTION:activity-->
 
 ### Statistics
