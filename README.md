@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/brain-image-library/py-brain-inventory/issues/3) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-2. 🗣 Commented on [#33](https://github.com/hubmapconsortium/py-hubmapbags/issues/33) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. ❗ Opened issue [#33](https://github.com/hubmapconsortium/py-hubmapbags/issues/33) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🎉 Merged PR [#32](https://github.com/hubmapconsortium/py-hubmapbags/pull/32) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🚀 Published release [Version 1.17.0](https://github.com/Version 1.17.0) in [pscedu/singularity-hyperfine](https://github.com/pscedu/singularity-hyperfine)
+1. 🔒 Closed issue [#2](https://github.com/brain-image-library/py-brain-inventory/issues/2) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+2. 🎉 Merged PR [#4](https://github.com/brain-image-library/py-brain-inventory/pull/4) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+3. 💪 Opened PR [#4](https://github.com/brain-image-library/py-brain-inventory/pull/4) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+4. ❗ Opened issue [#3](https://github.com/brain-image-library/py-brain-inventory/issues/3) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+5. 🗣 Commented on [#33](https://github.com/hubmapconsortium/py-hubmapbags/issues/33) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
