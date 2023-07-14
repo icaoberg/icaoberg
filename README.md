@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/brain-image-library/py-brain-inventory/pull/29) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-2. 🔒 Closed issue [#28](https://github.com/brain-image-library/py-brain-inventory/issues/28) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-3. ❗ Opened issue [#23](https://github.com/brain-image-library/py-brain-inventory/issues/23) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-4. 🔒 Closed issue [#21](https://github.com/brain-image-library/py-brain-inventory/issues/21) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 🎉 Merged PR [#22](https://github.com/brain-image-library/py-brain-inventory/pull/22) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. 🚀 Published release [Version 0.7.17a](https://github.com/pscedu/singularity-bwa/releases/tag/v0.7.17a) in [pscedu/singularity-bwa](https://github.com/pscedu/singularity-bwa)
+2. 🎉 Merged PR [#29](https://github.com/brain-image-library/py-brain-inventory/pull/29) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+3. 🔒 Closed issue [#28](https://github.com/brain-image-library/py-brain-inventory/issues/28) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+4. ❗ Opened issue [#23](https://github.com/brain-image-library/py-brain-inventory/issues/23) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+5. 🔒 Closed issue [#21](https://github.com/brain-image-library/py-brain-inventory/issues/21) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
