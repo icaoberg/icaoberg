@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.7.17a](https://github.com/pscedu/singularity-bwa/releases/tag/v0.7.17a) in [pscedu/singularity-bwa](https://github.com/pscedu/singularity-bwa)
-2. 🎉 Merged PR [#29](https://github.com/brain-image-library/py-brain-inventory/pull/29) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-3. 🔒 Closed issue [#28](https://github.com/brain-image-library/py-brain-inventory/issues/28) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-4. ❗ Opened issue [#23](https://github.com/brain-image-library/py-brain-inventory/issues/23) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 🔒 Closed issue [#21](https://github.com/brain-image-library/py-brain-inventory/issues/21) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. 🔒 Closed issue [#5](https://github.com/brain-image-library/py-brain-inventory/issues/5) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+2. 🎉 Merged PR [#13](https://github.com/brain-image-library/py-brain-inventory/pull/13) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+3. 🔒 Closed issue [#6](https://github.com/brain-image-library/py-brain-inventory/issues/6) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+4. 🎉 Merged PR [#18](https://github.com/brain-image-library/py-brain-inventory/pull/18) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+5. 🚀 Published release [Version 0.7.17a](https://github.com/pscedu/singularity-bwa/releases/tag/v0.7.17a) in [pscedu/singularity-bwa](https://github.com/pscedu/singularity-bwa)
 <!--END_SECTION:activity-->
 
 ### Statistics
