@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#40](https://github.com/brain-image-library/py-brain-inventory/issues/40) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-2. 🎉 Merged PR [#16](https://github.com/brain-image-library/py-brain-inventory/pull/16) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-3. 🔒 Closed issue [#14](https://github.com/brain-image-library/py-brain-inventory/issues/14) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-4. 🔒 Closed issue [#7](https://github.com/brain-image-library/py-brain-inventory/issues/7) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 🎉 Merged PR [#15](https://github.com/brain-image-library/py-brain-inventory/pull/15) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. ❗ Opened issue [#3](https://github.com/brain-image-library/py-brain-logs/issues/3) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+2. ❗ Opened issue [#2](https://github.com/brain-image-library/py-brain-logs/issues/2) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+3. ❗ Opened issue [#1](https://github.com/brain-image-library/py-brain-logs/issues/1) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+4. ❗ Opened issue [#40](https://github.com/brain-image-library/py-brain-inventory/issues/40) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+5. 🎉 Merged PR [#16](https://github.com/brain-image-library/py-brain-inventory/pull/16) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
