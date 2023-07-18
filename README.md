@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/brain-image-library/py-brain-logs/issues/7) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
-2. ❗ Opened issue [#6](https://github.com/brain-image-library/py-brain-logs/issues/6) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
-3. ❗ Opened issue [#5](https://github.com/brain-image-library/py-brain-logs/issues/5) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
-4. ❗ Opened issue [#4](https://github.com/brain-image-library/py-brain-logs/issues/4) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
-5. 🗣 Commented on [#52](https://github.com/brain-image-library/py-brain-inventory/issues/52#issuecomment-1639002125) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. ❗ Opened issue [#8](https://github.com/brain-image-library/py-brain-logs/issues/8) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+2. ❗ Opened issue [#7](https://github.com/brain-image-library/py-brain-logs/issues/7) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+3. ❗ Opened issue [#6](https://github.com/brain-image-library/py-brain-logs/issues/6) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+4. ❗ Opened issue [#5](https://github.com/brain-image-library/py-brain-logs/issues/5) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+5. ❗ Opened issue [#4](https://github.com/brain-image-library/py-brain-logs/issues/4) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
 <!--END_SECTION:activity-->
 
 ### Statistics
