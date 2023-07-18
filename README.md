@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/brain-image-library/py-brain-inventory/issues/52#issuecomment-1639002125) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-2. 🗣 Commented on [#3](https://github.com/brain-image-library/py-brain-logs/issues/3#issuecomment-1638995176) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
-3. 🗣 Commented on [#52](https://github.com/brain-image-library/py-brain-inventory/issues/52#issuecomment-1638694465) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-4. 🗣 Commented on [#52](https://github.com/brain-image-library/py-brain-inventory/issues/52#issuecomment-1638693441) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 🔒 Closed issue [#30](https://github.com/brain-image-library/py-brain-inventory/issues/30) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. ❗ Opened issue [#7](https://github.com/brain-image-library/py-brain-logs/issues/7) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+2. ❗ Opened issue [#6](https://github.com/brain-image-library/py-brain-logs/issues/6) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+3. ❗ Opened issue [#5](https://github.com/brain-image-library/py-brain-logs/issues/5) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+4. ❗ Opened issue [#4](https://github.com/brain-image-library/py-brain-logs/issues/4) in [brain-image-library/py-brain-logs](https://github.com/brain-image-library/py-brain-logs)
+5. 🗣 Commented on [#52](https://github.com/brain-image-library/py-brain-inventory/issues/52#issuecomment-1639002125) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
