@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/brain-image-library/py-brain-inventory/issues/8) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-2. 🎉 Merged PR [#19](https://github.com/brain-image-library/py-brain-inventory/pull/19) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-3. 🔒 Closed issue [#27](https://github.com/brain-image-library/py-brain-inventory/issues/27) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-4. 🎉 Merged PR [#37](https://github.com/brain-image-library/py-brain-inventory/pull/37) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 💪 Opened PR [#11](https://github.com/brain-image-library/py-brain-inventory-gource/pull/11) in [brain-image-library/py-brain-inventory-gource](https://github.com/brain-image-library/py-brain-inventory-gource)
+1. 🔒 Closed issue [#78](https://github.com/brain-image-library/py-brain-inventory/issues/78) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+2. 🎉 Merged PR [#79](https://github.com/brain-image-library/py-brain-inventory/pull/79) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+3. ❗ Opened issue [#78](https://github.com/brain-image-library/py-brain-inventory/issues/78) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+4. 🔒 Closed issue [#76](https://github.com/brain-image-library/py-brain-inventory/issues/76) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+5. 🎉 Merged PR [#77](https://github.com/brain-image-library/py-brain-inventory/pull/77) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
