@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/brain-image-library/py-brain-inventory-gource/pull/11) in [brain-image-library/py-brain-inventory-gource](https://github.com/brain-image-library/py-brain-inventory-gource)
-2. 🗣 Commented on [#9](https://github.com/brain-image-library/py-brain-inventory-gource/issues/9#issuecomment-1644919505) in [brain-image-library/py-brain-inventory-gource](https://github.com/brain-image-library/py-brain-inventory-gource)
-3. ❌ Closed PR [#6](https://github.com/brain-image-library/py-brain-inventory-gource/pull/6) in [brain-image-library/py-brain-inventory-gource](https://github.com/brain-image-library/py-brain-inventory-gource)
-4. 🎉 Merged PR [#8](https://github.com/brain-image-library/py-brain-inventory-gource/pull/8) in [brain-image-library/py-brain-inventory-gource](https://github.com/brain-image-library/py-brain-inventory-gource)
-5. 🎉 Merged PR [#7](https://github.com/brain-image-library/py-brain-inventory-gource/pull/7) in [brain-image-library/py-brain-inventory-gource](https://github.com/brain-image-library/py-brain-inventory-gource)
+1. 🔒 Closed issue [#8](https://github.com/brain-image-library/py-brain-inventory/issues/8) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+2. 🎉 Merged PR [#19](https://github.com/brain-image-library/py-brain-inventory/pull/19) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+3. 🔒 Closed issue [#27](https://github.com/brain-image-library/py-brain-inventory/issues/27) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+4. 🎉 Merged PR [#37](https://github.com/brain-image-library/py-brain-inventory/pull/37) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+5. 💪 Opened PR [#11](https://github.com/brain-image-library/py-brain-inventory-gource/pull/11) in [brain-image-library/py-brain-inventory-gource](https://github.com/brain-image-library/py-brain-inventory-gource)
 <!--END_SECTION:activity-->
 
 ### Statistics
