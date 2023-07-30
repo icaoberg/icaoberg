@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#72](https://github.com/brain-image-library/py-brain-inventory/issues/72) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-2. 🎉 Merged PR [#73](https://github.com/brain-image-library/py-brain-inventory/pull/73) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-3. ❗ Opened issue [#93](https://github.com/brain-image-library/py-brain-inventory/issues/93) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-4. 🔒 Closed issue [#50](https://github.com/brain-image-library/py-brain-inventory/issues/50) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 🎉 Merged PR [#86](https://github.com/brain-image-library/py-brain-inventory/pull/86) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. 💪 Opened PR [#4](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/4) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+2. 🗣 Commented on [#34](https://github.com/hubmapconsortium/py-hubmapbags/pull/34#issuecomment-1657253325) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 💪 Opened PR [#34](https://github.com/hubmapconsortium/py-hubmapbags/pull/34) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🔒 Closed issue [#72](https://github.com/brain-image-library/py-brain-inventory/issues/72) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+5. 🎉 Merged PR [#73](https://github.com/brain-image-library/py-brain-inventory/pull/73) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
