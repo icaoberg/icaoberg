@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/9) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-2. ❗ Opened issue [#8](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/8) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-3. ❗ Opened issue [#7](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/7) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-4. ❗ Opened issue [#6](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/6) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-5. 🎉 Merged PR [#5](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/5) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+1. 🗣 Commented on [#6](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/6#issuecomment-1658946900) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+2. ❗ Opened issue [#9](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/9) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+3. ❗ Opened issue [#8](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/8) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+4. ❗ Opened issue [#7](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/7) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+5. ❗ Opened issue [#6](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/6) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
