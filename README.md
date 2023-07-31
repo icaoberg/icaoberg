@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/4) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-2. 🗣 Commented on [#34](https://github.com/hubmapconsortium/py-hubmapbags/pull/34#issuecomment-1657253325) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 💪 Opened PR [#34](https://github.com/hubmapconsortium/py-hubmapbags/pull/34) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🔒 Closed issue [#72](https://github.com/brain-image-library/py-brain-inventory/issues/72) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 🎉 Merged PR [#73](https://github.com/brain-image-library/py-brain-inventory/pull/73) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. ❗ Opened issue [#9](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/9) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+2. ❗ Opened issue [#8](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/8) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+3. ❗ Opened issue [#7](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/7) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+4. ❗ Opened issue [#6](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/6) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+5. 🎉 Merged PR [#5](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/5) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
