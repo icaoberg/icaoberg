@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/14) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-2. 🎉 Merged PR [#20](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/20) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-3. 🎉 Merged PR [#18](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/18) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-4. 🎉 Merged PR [#15](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/15) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-5. 🔒 Closed issue [#6](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/6) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+1. 🔒 Closed issue [#55](https://github.com/brain-image-library/py-brain-inventory/issues/55) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+2. 🎉 Merged PR [#94](https://github.com/brain-image-library/py-brain-inventory/pull/94) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+3. 🔒 Closed issue [#17](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/17) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+4. 🎉 Merged PR [#21](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/21) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+5. 🔒 Closed issue [#14](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/14) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
