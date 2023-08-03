@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/22) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-2. 🎉 Merged PR [#23](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/23) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-3. ❗ Opened issue [#22](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/22) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-4. 🔒 Closed issue [#96](https://github.com/brain-image-library/py-brain-inventory/issues/96) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-5. 🎉 Merged PR [#99](https://github.com/brain-image-library/py-brain-inventory/pull/99) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+1. 🗣 Commented on [#31](https://github.com/hubmapconsortium/py-hubmapbags/pull/31#issuecomment-1664394497) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🔒 Closed issue [#22](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/22) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+3. 🎉 Merged PR [#23](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/23) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+4. ❗ Opened issue [#22](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/22) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+5. 🔒 Closed issue [#96](https://github.com/brain-image-library/py-brain-inventory/issues/96) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
