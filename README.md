@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/hubmapconsortium/py-hubmapbags/issues/30#issuecomment-1668336268) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 🎉 Merged PR [#31](https://github.com/hubmapconsortium/py-hubmapbags/pull/31) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. ❗ Opened issue [#4](https://github.com/lanesket/painy/issues/4) in [lanesket/painy](https://github.com/lanesket/painy)
-4. ❗ Opened issue [#35](https://github.com/hubmapconsortium/py-hubmapbags/issues/35) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🗣 Commented on [#31](https://github.com/hubmapconsortium/py-hubmapbags/pull/31#issuecomment-1664394497) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 💪 Opened PR [#36](https://github.com/hubmapconsortium/py-hubmapbags/pull/36) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🗣 Commented on [#30](https://github.com/hubmapconsortium/py-hubmapbags/issues/30#issuecomment-1668336268) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 🎉 Merged PR [#31](https://github.com/hubmapconsortium/py-hubmapbags/pull/31) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. ❗ Opened issue [#4](https://github.com/lanesket/painy/issues/4) in [lanesket/painy](https://github.com/lanesket/painy)
+5. ❗ Opened issue [#35](https://github.com/hubmapconsortium/py-hubmapbags/issues/35) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
