@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/hubmapconsortium/py-hubmapbags/issues/42) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 💪 Opened PR [#40](https://github.com/hubmapconsortium/py-hubmapbags/pull/40) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🎉 Merged PR [#39](https://github.com/hubmapconsortium/py-hubmapbags/pull/39) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🗣 Commented on [#4](https://github.com/lanesket/painy/issues/4#issuecomment-1708792181) in [lanesket/painy](https://github.com/lanesket/painy)
-5. 🚀 Published release [Version 1.17.0](https://github.com/pscedu/singularity-asciigenome/releases/tag/v1.17.0) in [pscedu/singularity-asciigenome](https://github.com/pscedu/singularity-asciigenome)
+1. 🗣 Commented on [#42](https://github.com/hubmapconsortium/py-hubmapbags/issues/42#issuecomment-1721178189) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. ❗ Opened issue [#42](https://github.com/hubmapconsortium/py-hubmapbags/issues/42) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 💪 Opened PR [#40](https://github.com/hubmapconsortium/py-hubmapbags/pull/40) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🎉 Merged PR [#39](https://github.com/hubmapconsortium/py-hubmapbags/pull/39) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🗣 Commented on [#4](https://github.com/lanesket/painy/issues/4#issuecomment-1708792181) in [lanesket/painy](https://github.com/lanesket/painy)
 <!--END_SECTION:activity-->
 
 ### Statistics
