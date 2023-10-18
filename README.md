@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.12.1](https://github.com/pscedu/singularity-fastqc/releases/tag/v0.12.1) in [pscedu/singularity-fastqc](https://github.com/pscedu/singularity-fastqc)
-2. 🚀 Published release [Version 6.0-r25](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.0-r25) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
-3. 🚀 Published release [Version 0.6.0](https://github.com/pscedu/singularity-pandiff/releases/tag/v0.6.0) in [pscedu/singularity-pandiff](https://github.com/pscedu/singularity-pandiff)
-4. 🗣 Commented on [#42](https://github.com/hubmapconsortium/py-hubmapbags/issues/42#issuecomment-1721178189) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. ❗ Opened issue [#42](https://github.com/hubmapconsortium/py-hubmapbags/issues/42) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🎉 Merged PR [#5](https://github.com/pscedu/singularity-ffmpeg/pull/5) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+2. 💪 Opened PR [#5](https://github.com/pscedu/singularity-ffmpeg/pull/5) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+3. 🚀 Published release [Version 6.0-r25](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.0-r26) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+4. 🚀 Published release [Version 0.12.1](https://github.com/pscedu/singularity-fastqc/releases/tag/v0.12.1) in [pscedu/singularity-fastqc](https://github.com/pscedu/singularity-fastqc)
+5. 🚀 Published release [Version 6.0-r25](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.0-r25) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
 <!--END_SECTION:activity-->
 
 ### Statistics
