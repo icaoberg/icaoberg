@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/pscedu/singularity-ffmpeg/pull/5) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
-2. 💪 Opened PR [#5](https://github.com/pscedu/singularity-ffmpeg/pull/5) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
-3. 🚀 Published release [Version 6.0-r25](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.0-r26) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
-4. 🚀 Published release [Version 0.12.1](https://github.com/pscedu/singularity-fastqc/releases/tag/v0.12.1) in [pscedu/singularity-fastqc](https://github.com/pscedu/singularity-fastqc)
-5. 🚀 Published release [Version 6.0-r25](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.0-r25) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+1. 🔒 Closed issue [#10](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/10) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+2. 🎉 Merged PR [#13](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/13) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+3. 🎉 Merged PR [#5](https://github.com/pscedu/singularity-ffmpeg/pull/5) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+4. 💪 Opened PR [#5](https://github.com/pscedu/singularity-ffmpeg/pull/5) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+5. 🚀 Published release [Version 6.0-r25](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.0-r26) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
 <!--END_SECTION:activity-->
 
 ### Statistics
