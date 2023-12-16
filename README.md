@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
-2. 🗣 Commented on [#1](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/1#issuecomment-1850583403) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-3. 🔒 Closed issue [#1](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/1) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-4. 🗣 Commented on [#9](https://github.com/hubmapconsortium/py-hubmapbags/issues/9#issuecomment-1840484513) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🔒 Closed issue [#9](https://github.com/hubmapconsortium/py-hubmapbags/issues/9) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
+2. 💪 Opened PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
+3. 🗣 Commented on [#1](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/1#issuecomment-1850583403) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+4. 🔒 Closed issue [#1](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/1) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+5. 🗣 Commented on [#9](https://github.com/hubmapconsortium/py-hubmapbags/issues/9#issuecomment-1840484513) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
