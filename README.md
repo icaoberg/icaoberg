@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/hubmapconsortium/py-hubmapbags/issues/44) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
-3. 💪 Opened PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
-4. 🗣 Commented on [#1](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/1#issuecomment-1850583403) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-5. 🔒 Closed issue [#1](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/1) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+1. 🚀 Published release [Version 1.7.1-r0](https://github.com/pscedu/singularity-jq/releases/tag/v1.7.1-r0) in [pscedu/singularity-jq](https://github.com/pscedu/singularity-jq)
+2. 🚀 Published release [Version 0.24.0](https://github.com/pscedu/singularity-bat/releases/tag/v0.24.0) in [pscedu/singularity-bat](https://github.com/pscedu/singularity-bat)
+3. ❗ Opened issue [#44](https://github.com/hubmapconsortium/py-hubmapbags/issues/44) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
+5. 💪 Opened PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
 <!--END_SECTION:activity-->
 
 ### Statistics
