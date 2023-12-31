@@ -8,11 +8,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.7.1-r0](https://github.com/pscedu/singularity-jq/releases/tag/v1.7.1-r0) in [pscedu/singularity-jq](https://github.com/pscedu/singularity-jq)
-2. 🚀 Published release [Version 0.24.0](https://github.com/pscedu/singularity-bat/releases/tag/v0.24.0) in [pscedu/singularity-bat](https://github.com/pscedu/singularity-bat)
-3. ❗ Opened issue [#44](https://github.com/hubmapconsortium/py-hubmapbags/issues/44) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
-5. 💪 Opened PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
+1. 🚀 Published release [Version 3.0](https://github.com/pscedu/singularity-visidata/releases/tag/v3.0) in [pscedu/singularity-visidata](https://github.com/pscedu/singularity-visidata)
+2. 🚀 Published release [Version 1.7.1-r0](https://github.com/pscedu/singularity-jq/releases/tag/v1.7.1-r0) in [pscedu/singularity-jq](https://github.com/pscedu/singularity-jq)
+3. 🚀 Published release [Version 0.24.0](https://github.com/pscedu/singularity-bat/releases/tag/v0.24.0) in [pscedu/singularity-bat](https://github.com/pscedu/singularity-bat)
+4. ❗ Opened issue [#44](https://github.com/hubmapconsortium/py-hubmapbags/issues/44) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-gnuplot/pull/1) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
 <!--END_SECTION:activity-->
 
 ### Statistics
