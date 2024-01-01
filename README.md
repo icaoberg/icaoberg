@@ -23,9 +23,9 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 
 # Reddit
 <!-- BLOG-POST-LIST:START -->
-- [When the soundtrack of life is too good to just walk ❤️❤️](https://www.reddit.com/r/u_icaoberg/comments/wp4k9l/when_the_soundtrack_of_life_is_too_good_to_just/)
-- [Mom&#39;s superpowers strike again😁😍♥️🙏 |CHEFKOUDY](https://www.reddit.com/r/u_icaoberg/comments/wmxngf/moms_superpowers_strike_again_chefkoudy/)
-- [Is anyone else like this? 😅](https://www.reddit.com/r/u_icaoberg/comments/wkq82y/is_anyone_else_like_this/)
-- [The first thing she said to me last night. I never know what to expect with sweet Ketchup. 🤣](https://www.reddit.com/r/u_icaoberg/comments/ty1h5z/the_first_thing_she_said_to_me_last_night_i_never/)
-- [The Only Way [OC]](https://www.reddit.com/r/u_icaoberg/comments/ty1cfr/the_only_way_oc/)
+- [vampire inquiries [oc]](https://www.reddit.com/r/u_icaoberg/comments/1705gy9/vampire_inquiries_oc/)
+- [Never Give Up!](https://www.reddit.com/r/u_icaoberg/comments/13mcab5/never_give_up/)
+- [of course not..](https://www.reddit.com/r/u_icaoberg/comments/13mc9h5/of_course_not/)
+- [A little rebel :&rpar;](https://www.reddit.com/r/u_icaoberg/comments/13mc6yc/a_little_rebel/)
+- [Ah yes, the rock-topus](https://www.reddit.com/r/u_icaoberg/comments/13mc4xk/ah_yes_the_rocktopus/)
 <!-- BLOG-POST-LIST:END -->
