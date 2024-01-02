@@ -5,6 +5,10 @@ I am research software specialist tinkering with technology in scientific relate
 
 I enjoy writing or contributing to open source projects, reusing old tech, playing with new tech, cooking and listening to good music.
 
+## News
+* [Getting to know Ivan](https://www.psc.edu/ivan-inside-psc-spotlight-2/)
+* [Mr. Cao-Berg's Neighborhood](https://www.cmu.edu/engage/about-us/news/alumni/profile-cao-berg.html)
+
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
