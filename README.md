@@ -8,6 +8,8 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## News
 * [Getting to know Ivan](https://www.psc.edu/ivan-inside-psc-spotlight-2/)
 * [Mr. Cao-Berg's Neighborhood](https://www.cmu.edu/engage/about-us/news/alumni/profile-cao-berg.html)
+* [Cao-Berg Helped Bring Aid to Puerto Rico](https://www.cmu.edu/piper/news/archives/2018/february/ivan-cao-berg.html)
+* [CMU student charters plane to help victims of Hurricane Maria](http://thetartan.org/2017/10/30/news/puerto-rico-aid)
 
 ## GitHub
 ### Activity
