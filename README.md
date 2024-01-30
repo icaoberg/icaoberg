@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 3.0.2](https://github.com/pscedu/singularity-visidata/releases/tag/v3.0.2) in [pscedu/singularity-visidata](https://github.com/pscedu/singularity-visidata)
-2. 🗣 Commented on [#5](https://github.com/lanesket/painy/issues/5#issuecomment-1873544385) in [lanesket/painy](https://github.com/lanesket/painy)
-3. ❗ Opened issue [#5](https://github.com/lanesket/painy/issues/5) in [lanesket/painy](https://github.com/lanesket/painy)
-4. 🗣 Commented on [#4](https://github.com/lanesket/painy/issues/4#issuecomment-1873052535) in [lanesket/painy](https://github.com/lanesket/painy)
-5. 🚀 Published release [Version 3.0](https://github.com/pscedu/singularity-visidata/releases/tag/v3.0) in [pscedu/singularity-visidata](https://github.com/pscedu/singularity-visidata)
+1. 🔒 Closed issue [#13](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/13) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+2. 🎉 Merged PR [#24](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/24) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+3. 💪 Opened PR [#24](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/24) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+4. 🚀 Published release [Version 3.0.2](https://github.com/pscedu/singularity-visidata/releases/tag/v3.0.2) in [pscedu/singularity-visidata](https://github.com/pscedu/singularity-visidata)
+5. 🗣 Commented on [#5](https://github.com/lanesket/painy/issues/5#issuecomment-1873544385) in [lanesket/painy](https://github.com/lanesket/painy)
 <!--END_SECTION:activity-->
 
 ### Statistics
