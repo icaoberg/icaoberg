@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/hubmapconsortium/py-hubmapbags/pull/45) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 🗣 Commented on [#41](https://github.com/hubmapconsortium/py-hubmapbags/issues/41#issuecomment-1920044691) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🔒 Closed issue [#13](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/13) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-4. 🎉 Merged PR [#24](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/24) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-5. 💪 Opened PR [#24](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/24) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+1. ❗ Opened issue [#25](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/25) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+2. 🗣 Commented on [#45](https://github.com/hubmapconsortium/py-hubmapbags/pull/45#issuecomment-1924148893) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 💪 Opened PR [#45](https://github.com/hubmapconsortium/py-hubmapbags/pull/45) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🗣 Commented on [#41](https://github.com/hubmapconsortium/py-hubmapbags/issues/41#issuecomment-1920044691) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🔒 Closed issue [#13](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/13) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
