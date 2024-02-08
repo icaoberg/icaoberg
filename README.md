@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version v6.1.1](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.1.1) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
-2. ❗ Opened issue [#25](https://github.com/hubmapconsortium/py-hubmap-inventory/issues/25) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-3. 🗣 Commented on [#45](https://github.com/hubmapconsortium/py-hubmapbags/pull/45#issuecomment-1924148893) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 💪 Opened PR [#45](https://github.com/hubmapconsortium/py-hubmapbags/pull/45) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🗣 Commented on [#41](https://github.com/hubmapconsortium/py-hubmapbags/issues/41#issuecomment-1920044691) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🚀 Published release [Version 2.28.0](https://github.com/pscedu/singularity-dua/releases/tag/v2.28.0) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+2. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+3. 💪 Opened PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+4. 🚀 Published release [Version 9.1](https://github.com/pscedu/singularity-vim/releases/tag/v9.1) in [pscedu/singularity-vim](https://github.com/pscedu/singularity-vim)
+5. 🚀 Published release [Version v6.1.1](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.1.1) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
 <!--END_SECTION:activity-->
 
 ### Statistics
