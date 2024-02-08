@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 2.28.0](https://github.com/pscedu/singularity-dua/releases/tag/v2.28.0) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
-2. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
-3. 💪 Opened PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
-4. 🚀 Published release [Version 9.1](https://github.com/pscedu/singularity-vim/releases/tag/v9.1) in [pscedu/singularity-vim](https://github.com/pscedu/singularity-vim)
-5. 🚀 Published release [Version v6.1.1](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v6.1.1) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+1. 🚀 Published release [Version 0.69-9](https://github.com/pscedu/singularity-circos/releases/tag/v0.69-9) in [pscedu/singularity-circos](https://github.com/pscedu/singularity-circos)
+2. 🚀 Published release [Version 2.28.0](https://github.com/pscedu/singularity-dua/releases/tag/v2.28.0) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+3. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+4. 💪 Opened PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+5. 🚀 Published release [Version 9.1](https://github.com/pscedu/singularity-vim/releases/tag/v9.1) in [pscedu/singularity-vim](https://github.com/pscedu/singularity-vim)
 <!--END_SECTION:activity-->
 
 ### Statistics
