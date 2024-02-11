@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/pscedu/singularity-dust/pull/8) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
-2. 🚀 Published release [Version 0.69-9](https://github.com/pscedu/singularity-circos/releases/tag/v0.69-9) in [pscedu/singularity-circos](https://github.com/pscedu/singularity-circos)
-3. 🚀 Published release [Version 2.28.0](https://github.com/pscedu/singularity-dua/releases/tag/v2.28.0) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
-4. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
-5. 💪 Opened PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+1. 🚀 Published release [Version 6.0](https://github.com/pscedu/singularity-gnuplot/releases/tag/v6.0) in [pscedu/singularity-gnuplot](https://github.com/pscedu/singularity-gnuplot)
+2. 💪 Opened PR [#8](https://github.com/pscedu/singularity-dust/pull/8) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
+3. 🚀 Published release [Version 0.69-9](https://github.com/pscedu/singularity-circos/releases/tag/v0.69-9) in [pscedu/singularity-circos](https://github.com/pscedu/singularity-circos)
+4. 🚀 Published release [Version 2.28.0](https://github.com/pscedu/singularity-dua/releases/tag/v2.28.0) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
+5. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-dua/pull/1) in [pscedu/singularity-dua](https://github.com/pscedu/singularity-dua)
 <!--END_SECTION:activity-->
 
 ### Statistics
