@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.5.9](https://github.com/pscedu/apptainer-lowcharts/releases/tag/v0.5.9) in [pscedu/apptainer-lowcharts](https://github.com/pscedu/apptainer-lowcharts)
-2. 🚀 Published release [Version 0.5.9](https://github.com/pscedu/apptainer-lowcharts/releases/tag/v0.5.9) in [pscedu/apptainer-lowcharts](https://github.com/pscedu/apptainer-lowcharts)
-3. 🚀 Published release [Version 0.4.1](https://github.com/pscedu/apptainer-lowcharts/releases/tag/v0.4.2) in [pscedu/apptainer-lowcharts](https://github.com/pscedu/apptainer-lowcharts)
-4. 🚀 Published release [Version 0.24.0](https://github.com/pscedu/apptainer-bat/releases/tag/v0.24.0) in [pscedu/apptainer-bat](https://github.com/pscedu/apptainer-bat)
-5. ❗ Opened issue [#15](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/15) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+1. 🚀 Published release [Version 5.0.0](https://github.com/pscedu/apptainer-chalk-cli/releases/tag/v5.0.0) in [pscedu/apptainer-chalk-cli](https://github.com/pscedu/apptainer-chalk-cli)
+2. 🚀 Published release [Version 8.4.0](https://github.com/pscedu/apptainer-octave/releases/tag/v8.4.0) in [pscedu/apptainer-octave](https://github.com/pscedu/apptainer-octave)
+3. 🚀 Published release [Version 7.3.0](https://github.com/pscedu/apptainer-octave/releases/tag/v7.3.0) in [pscedu/apptainer-octave](https://github.com/pscedu/apptainer-octave)
+4. 🚀 Published release [Version 0.5.9](https://github.com/pscedu/apptainer-lowcharts/releases/tag/v0.5.9) in [pscedu/apptainer-lowcharts](https://github.com/pscedu/apptainer-lowcharts)
+5. 🚀 Published release [Version 0.5.9](https://github.com/pscedu/apptainer-lowcharts/releases/tag/v0.5.9) in [pscedu/apptainer-lowcharts](https://github.com/pscedu/apptainer-lowcharts)
 <!--END_SECTION:activity-->
 
 ### Statistics
