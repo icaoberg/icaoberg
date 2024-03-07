@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.18.0](https://github.com/pscedu/apptainer-asciigenome/releases/tag/v1.18.0) in [pscedu/apptainer-asciigenome](https://github.com/pscedu/apptainer-asciigenome)
-2. 🚀 Published release [Version 1.17.0](https://github.com/pscedu/apptainer-asciigenome/releases/tag/v1.17.0) in [pscedu/apptainer-asciigenome](https://github.com/pscedu/apptainer-asciigenome)
-3. 🚀 Published release [Version 5.0.0](https://github.com/pscedu/apptainer-chalk-cli/releases/tag/v5.0.0) in [pscedu/apptainer-chalk-cli](https://github.com/pscedu/apptainer-chalk-cli)
-4. 🚀 Published release [Version 8.4.0](https://github.com/pscedu/apptainer-octave/releases/tag/v8.4.0) in [pscedu/apptainer-octave](https://github.com/pscedu/apptainer-octave)
-5. 🚀 Published release [Version 7.3.0](https://github.com/pscedu/apptainer-octave/releases/tag/v7.3.0) in [pscedu/apptainer-octave](https://github.com/pscedu/apptainer-octave)
+1. 🚀 Published release [Version 4.1.2](https://github.com/pscedu/apptainer-singularityce/releases/tag/v4.1.2) in [pscedu/apptainer-singularityce](https://github.com/pscedu/apptainer-singularityce)
+2. 🚀 Published release [Version 4.1](https://github.com/pscedu/apptainer-singularityce/releases/tag/v4.1) in [pscedu/apptainer-singularityce](https://github.com/pscedu/apptainer-singularityce)
+3. 🚀 Published release [Version 1.18.0](https://github.com/pscedu/apptainer-asciigenome/releases/tag/v1.18.0) in [pscedu/apptainer-asciigenome](https://github.com/pscedu/apptainer-asciigenome)
+4. 🚀 Published release [Version 1.17.0](https://github.com/pscedu/apptainer-asciigenome/releases/tag/v1.17.0) in [pscedu/apptainer-asciigenome](https://github.com/pscedu/apptainer-asciigenome)
+5. 🚀 Published release [Version 5.0.0](https://github.com/pscedu/apptainer-chalk-cli/releases/tag/v5.0.0) in [pscedu/apptainer-chalk-cli](https://github.com/pscedu/apptainer-chalk-cli)
 <!--END_SECTION:activity-->
 
 ### Statistics
