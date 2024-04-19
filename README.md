@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.42.0](https://github.com/pscedu/singularity-nanoplot/releases/tag/v1.42.0) in [pscedu/singularity-nanoplot](https://github.com/pscedu/singularity-nanoplot)
-2. 🚀 Published release [Version 0.2.4](https://github.com/pscedu/singularity-porechop/releases/tag/v0.2.4) in [pscedu/singularity-porechop](https://github.com/pscedu/singularity-porechop)
-3. 🚀 Published release [Version 4.1.2](https://github.com/pscedu/apptainer-singularityce/releases/tag/v4.1.2) in [pscedu/apptainer-singularityce](https://github.com/pscedu/apptainer-singularityce)
-4. 🚀 Published release [Version 4.1](https://github.com/pscedu/apptainer-singularityce/releases/tag/v4.1) in [pscedu/apptainer-singularityce](https://github.com/pscedu/apptainer-singularityce)
-5. 🚀 Published release [Version 1.18.0](https://github.com/pscedu/apptainer-asciigenome/releases/tag/v1.18.0) in [pscedu/apptainer-asciigenome](https://github.com/pscedu/apptainer-asciigenome)
+1. 🎉 Merged PR [#46](https://github.com/hubmapconsortium/py-hubmapbags/pull/46) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🚀 Published release [Version 1.42.0](https://github.com/pscedu/singularity-nanoplot/releases/tag/v1.42.0) in [pscedu/singularity-nanoplot](https://github.com/pscedu/singularity-nanoplot)
+3. 🚀 Published release [Version 0.2.4](https://github.com/pscedu/singularity-porechop/releases/tag/v0.2.4) in [pscedu/singularity-porechop](https://github.com/pscedu/singularity-porechop)
+4. 🚀 Published release [Version 4.1.2](https://github.com/pscedu/apptainer-singularityce/releases/tag/v4.1.2) in [pscedu/apptainer-singularityce](https://github.com/pscedu/apptainer-singularityce)
+5. 🚀 Published release [Version 4.1](https://github.com/pscedu/apptainer-singularityce/releases/tag/v4.1) in [pscedu/apptainer-singularityce](https://github.com/pscedu/apptainer-singularityce)
 <!--END_SECTION:activity-->
 
 ### Statistics
