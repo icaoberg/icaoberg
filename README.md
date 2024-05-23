@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/hubmapconsortium/py-hubmapbags/issues/47#issuecomment-2067717041) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. ❗ Opened issue [#47](https://github.com/hubmapconsortium/py-hubmapbags/issues/47) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🎉 Merged PR [#46](https://github.com/hubmapconsortium/py-hubmapbags/pull/46) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🚀 Published release [Version 1.42.0](https://github.com/pscedu/singularity-nanoplot/releases/tag/v1.42.0) in [pscedu/singularity-nanoplot](https://github.com/pscedu/singularity-nanoplot)
-5. 🚀 Published release [Version 0.2.4](https://github.com/pscedu/singularity-porechop/releases/tag/v0.2.4) in [pscedu/singularity-porechop](https://github.com/pscedu/singularity-porechop)
+1. 💪 Opened PR [#26](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/26) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+2. 🗣 Commented on [#47](https://github.com/hubmapconsortium/py-hubmapbags/issues/47#issuecomment-2067717041) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. ❗ Opened issue [#47](https://github.com/hubmapconsortium/py-hubmapbags/issues/47) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🎉 Merged PR [#46](https://github.com/hubmapconsortium/py-hubmapbags/pull/46) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🚀 Published release [Version 1.42.0](https://github.com/pscedu/singularity-nanoplot/releases/tag/v1.42.0) in [pscedu/singularity-nanoplot](https://github.com/pscedu/singularity-nanoplot)
 <!--END_SECTION:activity-->
 
 ### Statistics
