@@ -14,11 +14,11 @@ I enjoy writing or contributing to open source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/hubmapconsortium/py-hubmapbags/pull/48) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 🎉 Merged PR [#16](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/16) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-3. 🎉 Merged PR [#26](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/26) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-4. 💪 Opened PR [#26](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/26) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
-5. 🗣 Commented on [#47](https://github.com/hubmapconsortium/py-hubmapbags/issues/47#issuecomment-2067717041) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🎉 Merged PR [#48](https://github.com/hubmapconsortium/py-hubmapbags/pull/48) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 💪 Opened PR [#48](https://github.com/hubmapconsortium/py-hubmapbags/pull/48) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 🎉 Merged PR [#16](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/16) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+4. 🎉 Merged PR [#26](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/26) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
+5. 💪 Opened PR [#26](https://github.com/hubmapconsortium/py-hubmap-inventory/pull/26) in [hubmapconsortium/py-hubmap-inventory](https://github.com/hubmapconsortium/py-hubmap-inventory)
 <!--END_SECTION:activity-->
 
 ### Statistics
