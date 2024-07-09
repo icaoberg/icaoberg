@@ -3,7 +3,7 @@
 # About Me
 I am research software specialist tinkering with technology in scientific related projects.
 
-I enjoy writing or contributing to open source projects, reusing old tech, playing with new tech, cooking and listening to good music.
+I enjoy writing or contributing to open-source projects, reusing old tech, playing with new tech, cooking and listening to good music.
 
 ## News
 * [Getting to know Ivan](https://www.psc.edu/ivan-inside-psc-spotlight-2/)
