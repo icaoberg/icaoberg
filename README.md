@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/icaoberg/sams2024-fair/issues/8) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-2. ❗ Opened issue [#7](https://github.com/icaoberg/sams2024-fair/issues/7) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-3. ❗ Opened issue [#6](https://github.com/icaoberg/sams2024-fair/issues/6) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-4. ❗ Opened issue [#5](https://github.com/icaoberg/sams2024-fair/issues/5) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-5. 🔒 Closed issue [#2](https://github.com/icaoberg/sams2024-fair/issues/2) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+1. 🔒 Closed issue [#3](https://github.com/icaoberg/cs-scholars2024-fair/issues/3) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+2. 🎉 Merged PR [#13](https://github.com/icaoberg/cs-scholars2024-fair/pull/13) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+3. 💪 Opened PR [#13](https://github.com/icaoberg/cs-scholars2024-fair/pull/13) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+4. ❗ Opened issue [#8](https://github.com/icaoberg/sams2024-fair/issues/8) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+5. ❗ Opened issue [#7](https://github.com/icaoberg/sams2024-fair/issues/7) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
 <!--END_SECTION:activity-->
 
 ### Statistics
