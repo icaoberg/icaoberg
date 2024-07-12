@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/icaoberg/cs-scholars2024-fair/issues/4#issuecomment-2223999149) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-2. 🗣 Commented on [#1](https://github.com/icaoberg/cs-scholars2024-fair/issues/1#issuecomment-2223997397) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-3. 🎉 Merged PR [#19](https://github.com/icaoberg/cs-scholars2024-fair/pull/19) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-4. 🔒 Closed issue [#10](https://github.com/icaoberg/cs-scholars2024-fair/issues/10) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-5. 🔒 Closed issue [#12](https://github.com/icaoberg/cs-scholars2024-fair/issues/12) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+1. 🗣 Commented on [#15](https://github.com/icaoberg/sams2024-fair/issues/15#issuecomment-2224328090) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+2. 🗣 Commented on [#28](https://github.com/icaoberg/cs-scholars2024-fair/issues/28#issuecomment-2224327826) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+3. ❗ Opened issue [#28](https://github.com/icaoberg/cs-scholars2024-fair/issues/28) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+4. ❗ Opened issue [#15](https://github.com/icaoberg/sams2024-fair/issues/15) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+5. 🗣 Commented on [#4](https://github.com/icaoberg/cs-scholars2024-fair/issues/4#issuecomment-2223999149) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
 <!--END_SECTION:activity-->
 
 ### Statistics
