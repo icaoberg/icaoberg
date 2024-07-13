@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32](https://github.com/icaoberg/sams2024-fair/issues/32) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-2. 🎉 Merged PR [#25](https://github.com/icaoberg/sams2024-fair/pull/25) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-3. ❗ Opened issue [#31](https://github.com/icaoberg/sams2024-fair/issues/31) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-4. 🔒 Closed issue [#17](https://github.com/icaoberg/sams2024-fair/issues/17) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-5. 🎉 Merged PR [#20](https://github.com/icaoberg/sams2024-fair/pull/20) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+1. 🔒 Closed issue [#12](https://github.com/icaoberg/sams2024-fair/issues/12) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+2. 🎉 Merged PR [#26](https://github.com/icaoberg/sams2024-fair/pull/26) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+3. ❗ Opened issue [#34](https://github.com/icaoberg/sams2024-fair/issues/34) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+4. 🔒 Closed issue [#32](https://github.com/icaoberg/sams2024-fair/issues/32) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+5. 🎉 Merged PR [#33](https://github.com/icaoberg/sams2024-fair/pull/33) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
 <!--END_SECTION:activity-->
 
 ### Statistics
