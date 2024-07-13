@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/icaoberg/sams2024-fair/issues/8#issuecomment-2225995322) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
-2. 🗣 Commented on [#12](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/12#issuecomment-2225727552) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-3. 🎉 Merged PR [#19](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/19) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-4. 🎉 Merged PR [#20](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/20) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-5. ❗ Opened issue [#18](https://github.com/icaoberg/sams2024-fair/issues/18) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+1. 🔒 Closed issue [#6](https://github.com/icaoberg/sams2024-fair/issues/6) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+2. 🎉 Merged PR [#21](https://github.com/icaoberg/sams2024-fair/pull/21) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+3. 🗣 Commented on [#8](https://github.com/icaoberg/sams2024-fair/issues/8#issuecomment-2225995322) in [icaoberg/sams2024-fair](https://github.com/icaoberg/sams2024-fair)
+4. 🗣 Commented on [#12](https://github.com/hubmapconsortium/py-hubmap-dbgap/issues/12#issuecomment-2225727552) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+5. 🎉 Merged PR [#19](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/19) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
 <!--END_SECTION:activity-->
 
 ### Statistics
