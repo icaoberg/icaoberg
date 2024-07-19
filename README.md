@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/icaoberg/cs-scholars2024-fair/issues/7#issuecomment-2235226733) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-2. 🎉 Merged PR [#41](https://github.com/icaoberg/cs-scholars2024-fair/pull/41) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-3. 💪 Opened PR [#41](https://github.com/icaoberg/cs-scholars2024-fair/pull/41) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-4. 🔒 Closed issue [#4](https://github.com/icaoberg/cs-scholars2024-fair/issues/4) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
-5. 🎉 Merged PR [#40](https://github.com/icaoberg/cs-scholars2024-fair/pull/40) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+1. ❌ Closed PR [#34](https://github.com/hubmapconsortium/py-hubmapbags/pull/34) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🗣 Commented on [#7](https://github.com/icaoberg/cs-scholars2024-fair/issues/7#issuecomment-2235226733) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+3. 🎉 Merged PR [#41](https://github.com/icaoberg/cs-scholars2024-fair/pull/41) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+4. 💪 Opened PR [#41](https://github.com/icaoberg/cs-scholars2024-fair/pull/41) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
+5. 🔒 Closed issue [#4](https://github.com/icaoberg/cs-scholars2024-fair/issues/4) in [icaoberg/cs-scholars2024-fair](https://github.com/icaoberg/cs-scholars2024-fair)
 <!--END_SECTION:activity-->
 
 ### Statistics
