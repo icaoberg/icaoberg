@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/hubmapconsortium/py-hubmapbags/issues/60) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. ❗ Opened issue [#59](https://github.com/hubmapconsortium/py-hubmapbags/issues/59) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. ❗ Opened issue [#58](https://github.com/hubmapconsortium/py-hubmapbags/issues/58) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🎉 Merged PR [#53](https://github.com/hubmapconsortium/py-hubmapbags/pull/53) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🎉 Merged PR [#57](https://github.com/hubmapconsortium/py-hubmapbags/pull/57) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🎉 Merged PR [#25](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/25) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+2. ❗ Opened issue [#60](https://github.com/hubmapconsortium/py-hubmapbags/issues/60) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. ❗ Opened issue [#59](https://github.com/hubmapconsortium/py-hubmapbags/issues/59) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. ❗ Opened issue [#58](https://github.com/hubmapconsortium/py-hubmapbags/issues/58) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🎉 Merged PR [#53](https://github.com/hubmapconsortium/py-hubmapbags/pull/53) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
