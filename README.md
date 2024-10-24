@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Latest](https://github.com/icaoberg/singularity-img2ascii/releases/tag/vlatest) in [icaoberg/singularity-img2ascii](https://github.com/icaoberg/singularity-img2ascii)
-2. 🎉 Merged PR [#61](https://github.com/hubmapconsortium/py-hubmapbags/pull/61) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🎉 Merged PR [#25](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/25) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
-4. ❗ Opened issue [#60](https://github.com/hubmapconsortium/py-hubmapbags/issues/60) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. ❗ Opened issue [#59](https://github.com/hubmapconsortium/py-hubmapbags/issues/59) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🚀 Published release [Version 7.1.1-39](https://github.com/pscedu/singularity-imagemagick/releases/tag/v7.1.1-39) in [pscedu/singularity-imagemagick](https://github.com/pscedu/singularity-imagemagick)
+2. 🚀 Published release [Latest](https://github.com/icaoberg/singularity-img2ascii/releases/tag/vlatest) in [icaoberg/singularity-img2ascii](https://github.com/icaoberg/singularity-img2ascii)
+3. 🎉 Merged PR [#61](https://github.com/hubmapconsortium/py-hubmapbags/pull/61) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🎉 Merged PR [#25](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/25) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+5. ❗ Opened issue [#60](https://github.com/hubmapconsortium/py-hubmapbags/issues/60) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
