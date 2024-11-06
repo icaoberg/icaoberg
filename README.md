@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 4.8.33](https://github.com/pscedu/singularity-mc/releases/tag/v4.8.33) in [pscedu/singularity-mc](https://github.com/pscedu/singularity-mc)
-2. 🎉 Merged PR [#8](https://github.com/pscedu/singularity-dust/pull/8) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
-3. 🚀 Published release [Version 7.1.1-39](https://github.com/pscedu/singularity-imagemagick/releases/tag/v7.1.1-39) in [pscedu/singularity-imagemagick](https://github.com/pscedu/singularity-imagemagick)
-4. 🚀 Published release [Latest](https://github.com/icaoberg/singularity-img2ascii/releases/tag/vlatest) in [icaoberg/singularity-img2ascii](https://github.com/icaoberg/singularity-img2ascii)
-5. 🎉 Merged PR [#61](https://github.com/hubmapconsortium/py-hubmapbags/pull/61) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 💪 Opened PR [#64](https://github.com/hubmapconsortium/py-hubmapbags/pull/64) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🚀 Published release [Version 4.8.33](https://github.com/pscedu/singularity-mc/releases/tag/v4.8.33) in [pscedu/singularity-mc](https://github.com/pscedu/singularity-mc)
+3. 🎉 Merged PR [#8](https://github.com/pscedu/singularity-dust/pull/8) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
+4. 🚀 Published release [Version 7.1.1-39](https://github.com/pscedu/singularity-imagemagick/releases/tag/v7.1.1-39) in [pscedu/singularity-imagemagick](https://github.com/pscedu/singularity-imagemagick)
+5. 🚀 Published release [Latest](https://github.com/icaoberg/singularity-img2ascii/releases/tag/vlatest) in [icaoberg/singularity-img2ascii](https://github.com/icaoberg/singularity-img2ascii)
 <!--END_SECTION:activity-->
 
 ### Statistics
