@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/hubmapconsortium/py-hubmapbags/pull/63) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 💪 Opened PR [#64](https://github.com/hubmapconsortium/py-hubmapbags/pull/64) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🚀 Published release [Version 4.8.33](https://github.com/pscedu/singularity-mc/releases/tag/v4.8.33) in [pscedu/singularity-mc](https://github.com/pscedu/singularity-mc)
-4. 🎉 Merged PR [#8](https://github.com/pscedu/singularity-dust/pull/8) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
-5. 🚀 Published release [Version 7.1.1-39](https://github.com/pscedu/singularity-imagemagick/releases/tag/v7.1.1-39) in [pscedu/singularity-imagemagick](https://github.com/pscedu/singularity-imagemagick)
+1. 🎉 Merged PR [#66](https://github.com/hubmapconsortium/py-hubmapbags/pull/66) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🎉 Merged PR [#63](https://github.com/hubmapconsortium/py-hubmapbags/pull/63) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 💪 Opened PR [#64](https://github.com/hubmapconsortium/py-hubmapbags/pull/64) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🚀 Published release [Version 4.8.33](https://github.com/pscedu/singularity-mc/releases/tag/v4.8.33) in [pscedu/singularity-mc](https://github.com/pscedu/singularity-mc)
+5. 🎉 Merged PR [#8](https://github.com/pscedu/singularity-dust/pull/8) in [pscedu/singularity-dust](https://github.com/pscedu/singularity-dust)
 <!--END_SECTION:activity-->
 
 ### Statistics
