@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/hubmapconsortium/py-hubmapbags/pull/65) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-2. 🎉 Merged PR [#66](https://github.com/hubmapconsortium/py-hubmapbags/pull/66) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🎉 Merged PR [#63](https://github.com/hubmapconsortium/py-hubmapbags/pull/63) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 💪 Opened PR [#64](https://github.com/hubmapconsortium/py-hubmapbags/pull/64) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🚀 Published release [Version 4.8.33](https://github.com/pscedu/singularity-mc/releases/tag/v4.8.33) in [pscedu/singularity-mc](https://github.com/pscedu/singularity-mc)
+1. 🗣 Commented on [#14](https://github.com/hubmapconsortium/py-hubmapbags/issues/14#issuecomment-2518242999) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🔒 Closed issue [#14](https://github.com/hubmapconsortium/py-hubmapbags/issues/14) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+3. 🔒 Closed issue [#54](https://github.com/hubmapconsortium/py-hubmapbags/issues/54) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🔒 Closed issue [#58](https://github.com/hubmapconsortium/py-hubmapbags/issues/58) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🗣 Commented on [#58](https://github.com/hubmapconsortium/py-hubmapbags/issues/58#issuecomment-2518241493) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
