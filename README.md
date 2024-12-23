@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.1](https://github.com/icaoberg/nano/releases/tag/v0.1) in [icaoberg/nano](https://github.com/icaoberg/nano)
-2. 🗣 Commented on [#14](https://github.com/hubmapconsortium/py-hubmapbags/issues/14#issuecomment-2518242999) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🔒 Closed issue [#14](https://github.com/hubmapconsortium/py-hubmapbags/issues/14) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-4. 🔒 Closed issue [#54](https://github.com/hubmapconsortium/py-hubmapbags/issues/54) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-5. 🔒 Closed issue [#58](https://github.com/hubmapconsortium/py-hubmapbags/issues/58) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🚀 Published release [Version 4.1.12](https://github.com/pscedu/singularity-aspera-connect/releases/tag/v4.1.12) in [pscedu/singularity-aspera-connect](https://github.com/pscedu/singularity-aspera-connect)
+2. 🚀 Published release [Version 0.1](https://github.com/icaoberg/nano/releases/tag/v0.1) in [icaoberg/nano](https://github.com/icaoberg/nano)
+3. 🗣 Commented on [#14](https://github.com/hubmapconsortium/py-hubmapbags/issues/14#issuecomment-2518242999) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🔒 Closed issue [#14](https://github.com/hubmapconsortium/py-hubmapbags/issues/14) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+5. 🔒 Closed issue [#54](https://github.com/hubmapconsortium/py-hubmapbags/issues/54) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 <!--END_SECTION:activity-->
 
 ### Statistics
