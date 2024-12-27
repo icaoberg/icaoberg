@@ -14,11 +14,11 @@ I enjoy writing or contributing to open-source projects, reusing old tech, playi
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 4.8.32](https://github.com/pscedu/singularity-mc/releases/tag/v4.8.32) in [pscedu/singularity-mc](https://github.com/pscedu/singularity-mc)
-2. 🚀 Published release [Version 2.7](https://github.com/pscedu/singularity-ncdu/releases/tag/v2.7) in [pscedu/singularity-ncdu](https://github.com/pscedu/singularity-ncdu)
-3. 🚀 Published release [Version 4.1.12](https://github.com/pscedu/singularity-aspera-connect/releases/tag/v4.1.12) in [pscedu/singularity-aspera-connect](https://github.com/pscedu/singularity-aspera-connect)
-4. 🚀 Published release [Version 0.1](https://github.com/icaoberg/nano/releases/tag/v0.1) in [icaoberg/nano](https://github.com/icaoberg/nano)
-5. 🗣 Commented on [#14](https://github.com/hubmapconsortium/py-hubmapbags/issues/14#issuecomment-2518242999) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+1. 🚀 Published release [Version 1.21](https://github.com/pscedu/singularity-samtools/releases/tag/v1.21) in [pscedu/singularity-samtools](https://github.com/pscedu/singularity-samtools)
+2. 🚀 Published release [Version 4.8.32](https://github.com/pscedu/singularity-mc/releases/tag/v4.8.32) in [pscedu/singularity-mc](https://github.com/pscedu/singularity-mc)
+3. 🚀 Published release [Version 2.7](https://github.com/pscedu/singularity-ncdu/releases/tag/v2.7) in [pscedu/singularity-ncdu](https://github.com/pscedu/singularity-ncdu)
+4. 🚀 Published release [Version 4.1.12](https://github.com/pscedu/singularity-aspera-connect/releases/tag/v4.1.12) in [pscedu/singularity-aspera-connect](https://github.com/pscedu/singularity-aspera-connect)
+5. 🚀 Published release [Version 0.1](https://github.com/icaoberg/nano/releases/tag/v0.1) in [icaoberg/nano](https://github.com/icaoberg/nano)
 <!--END_SECTION:activity-->
 
 ### Statistics
