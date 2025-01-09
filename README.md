@@ -12,11 +12,7 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 * [CMU student charters plane to help victims of Hurricane Maria](http://thetartan.org/2017/10/30/news/puerto-rico-aid)
 
 ## GitHub
-
-## 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-### Activity
+### 🎯 Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Version 2.22.28](https://github.com/pscedu/singularity-aws-cli/releases/tag/v2.22.28) in [pscedu/singularity-aws-cli](https://github.com/pscedu/singularity-aws-cli)
 2. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-aws-cli/pull/1) in [pscedu/singularity-aws-cli](https://github.com/pscedu/singularity-aws-cli)
@@ -25,10 +21,10 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 5. 💪 Opened PR [#4](https://github.com/pscedu/singularity-asciinema/pull/4) in [pscedu/singularity-asciinema](https://github.com/pscedu/singularity-asciinema)
 <!--END_SECTION:activity-->
 
-### Statistics
+### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
-### Languages
+### 🛠️ Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M)
 
 # Reddit
