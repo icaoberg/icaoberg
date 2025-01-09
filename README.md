@@ -12,6 +12,10 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 * [CMU student charters plane to help victims of Hurricane Maria](http://thetartan.org/2017/10/30/news/puerto-rico-aid)
 
 ## GitHub
+
+## 📈 Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 ### Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Version 2.22.28](https://github.com/pscedu/singularity-aws-cli/releases/tag/v2.22.28) in [pscedu/singularity-aws-cli](https://github.com/pscedu/singularity-aws-cli)
