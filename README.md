@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=icaoberg)
 
 # About Me
-I am research software specialist tinkering with technology in scientific related projects.
+Hi there! I'm a research software specialist passionate about exploring technology in science-driven projects. I enjoy contributing to open-source projects, finding creative ways to repurpose old tech, and experimenting with the latest tools and technologies.
 
-I enjoy writing or contributing to open-source projects, reusing old tech, playing with new tech, cooking and listening to good music.
+When I'm not tinkering with code or tech, you'll find me cooking up something delicious or relaxing with great music in the background. Let's collaborate and build something amazing!
 
 ## News
 * [Getting to know Ivan](https://www.psc.edu/ivan-inside-psc-spotlight-2/)
