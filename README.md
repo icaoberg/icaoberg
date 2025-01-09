@@ -14,11 +14,11 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 2.22.28](https://github.com/pscedu/singularity-aws-cli/releases/tag/v2.22.28) in [pscedu/singularity-aws-cli](https://github.com/pscedu/singularity-aws-cli)
-2. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-aws-cli/pull/1) in [pscedu/singularity-aws-cli](https://github.com/pscedu/singularity-aws-cli)
-3. 💪 Opened PR [#1](https://github.com/pscedu/singularity-aws-cli/pull/1) in [pscedu/singularity-aws-cli](https://github.com/pscedu/singularity-aws-cli)
-4. 🎉 Merged PR [#4](https://github.com/pscedu/singularity-asciinema/pull/4) in [pscedu/singularity-asciinema](https://github.com/pscedu/singularity-asciinema)
-5. 💪 Opened PR [#4](https://github.com/pscedu/singularity-asciinema/pull/4) in [pscedu/singularity-asciinema](https://github.com/pscedu/singularity-asciinema)
+1. 💪 Opened PR [#1](https://github.com/icaoberg/python-get-forecast/pull/1) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+2. 💪 Opened PR [#1](https://github.com/icaoberg/icaoberg/pull/1) in [icaoberg/icaoberg](https://github.com/icaoberg/icaoberg)
+3. 🚀 Published release [Version 0.1](https://github.com/icaoberg/icaoberg/releases/tag/v0.1) in [icaoberg/icaoberg](https://github.com/icaoberg/icaoberg)
+4. 🚀 Published release [Version 0.1](https://github.com/icaoberg/timew-script/releases/tag/v0.1) in [icaoberg/timew-script](https://github.com/icaoberg/timew-script)
+5. 🚀 Published release [Version 2.22.28](https://github.com/pscedu/singularity-aws-cli/releases/tag/v2.22.28) in [pscedu/singularity-aws-cli](https://github.com/pscedu/singularity-aws-cli)
 <!--END_SECTION:activity-->
 
 ### Statistics
