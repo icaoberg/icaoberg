@@ -14,11 +14,11 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.1 - Prepared by SAMS and CS Scholars 2023](https://github.com/brain-image-library/py-brain-inventory/releases/tag/v0.1) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
-2. 🎉 Merged PR [#67](https://github.com/hubmapconsortium/py-hubmapbags/pull/67) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
-3. 🎉 Merged PR [#1](https://github.com/icaoberg/python-get-forecast/pull/1) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
-4. 💪 Opened PR [#1](https://github.com/icaoberg/python-get-forecast/pull/1) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
-5. 💪 Opened PR [#1](https://github.com/icaoberg/icaoberg/pull/1) in [icaoberg/icaoberg](https://github.com/icaoberg/icaoberg)
+1. ❗ Opened issue [#68](https://github.com/hubmapconsortium/py-hubmapbags/issues/68) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+2. 🚀 Published release [Version 0.1 - Prepared by SAMS and CS Scholars 2023](https://github.com/brain-image-library/py-brain-inventory/releases/tag/v0.1) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
+3. 🎉 Merged PR [#67](https://github.com/hubmapconsortium/py-hubmapbags/pull/67) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
+4. 🎉 Merged PR [#1](https://github.com/icaoberg/python-get-forecast/pull/1) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+5. 💪 Opened PR [#1](https://github.com/icaoberg/python-get-forecast/pull/1) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
 <!--END_SECTION:activity-->
 
 ### Statistics
