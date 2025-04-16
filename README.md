@@ -14,8 +14,8 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1995](https://github.com/pscedu/singularity-stride/releases/tag/v1995) in [pscedu/singularity-stride](https://github.com/pscedu/singularity-stride)
-2. 💪 Opened PR [#27](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/27) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
+1. 💪 Opened PR [#890](https://github.com/nf-core/configs/pull/890) in [nf-core/configs](https://github.com/nf-core/configs)
+2. 🚀 Published release [Version 1995](https://github.com/pscedu/singularity-stride/releases/tag/v1995) in [pscedu/singularity-stride](https://github.com/pscedu/singularity-stride)
 3. ❌ Closed PR [#22](https://github.com/hubmapconsortium/py-hubmap-dbgap/pull/22) in [hubmapconsortium/py-hubmap-dbgap](https://github.com/hubmapconsortium/py-hubmap-dbgap)
 4. ❗ Opened issue [#68](https://github.com/hubmapconsortium/py-hubmapbags/issues/68) in [hubmapconsortium/py-hubmapbags](https://github.com/hubmapconsortium/py-hubmapbags)
 5. 🚀 Published release [Version 0.1 - Prepared by SAMS and CS Scholars 2023](https://github.com/brain-image-library/py-brain-inventory/releases/tag/v0.1) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
