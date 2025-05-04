@@ -12,7 +12,7 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 * [CMU student charters plane to help victims of Hurricane Maria](http://thetartan.org/2017/10/30/news/puerto-rico-aid)
 
 ## GitHub
-### Activity
+### 🎯 Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#890](https://github.com/nf-core/configs/pull/890) in [nf-core/configs](https://github.com/nf-core/configs)
 2. 🚀 Published release [Version 1995](https://github.com/pscedu/singularity-stride/releases/tag/v1995) in [pscedu/singularity-stride](https://github.com/pscedu/singularity-stride)
@@ -21,10 +21,10 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 5. 🚀 Published release [Version 0.1 - Prepared by SAMS and CS Scholars 2023](https://github.com/brain-image-library/py-brain-inventory/releases/tag/v0.1) in [brain-image-library/py-brain-inventory](https://github.com/brain-image-library/py-brain-inventory)
 <!--END_SECTION:activity-->
 
-### Statistics
+### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
-### Languages
+### 🛠️ Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M)
 
 # Reddit
