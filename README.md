@@ -14,11 +14,11 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/pscedu/singularity-octave/issues/7) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
-2. 💪 Opened PR [#11](https://github.com/pscedu/singularity-graphviz/pull/11) in [pscedu/singularity-graphviz](https://github.com/pscedu/singularity-graphviz)
-3. 🚀 Published release [Version 2.4.0](https://github.com/pscedu/singularity-fdupes/releases/tag/v2.4.0) in [pscedu/singularity-fdupes](https://github.com/pscedu/singularity-fdupes)
-4. 🎉 Merged PR [#2](https://github.com/pscedu/singularity-fdupes/pull/2) in [pscedu/singularity-fdupes](https://github.com/pscedu/singularity-fdupes)
-5. 🎉 Merged PR [#1](https://github.com/pscedu/singularity-fdupes/pull/1) in [pscedu/singularity-fdupes](https://github.com/pscedu/singularity-fdupes)
+1. 🔒 Closed issue [#8](https://github.com/pscedu/singularity-octave/issues/8) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
+2. 🎉 Merged PR [#10](https://github.com/pscedu/singularity-octave/pull/10) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
+3. 🔓 Reopened issue [#8](https://github.com/pscedu/singularity-octave/issues/8) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
+4. 💪 Opened PR [#10](https://github.com/pscedu/singularity-octave/pull/10) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
+5. 🔒 Closed issue [#8](https://github.com/pscedu/singularity-octave/issues/8) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
 <!--END_SECTION:activity-->
 
 ### Statistics
