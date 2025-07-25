@@ -14,11 +14,11 @@ When I'm not tinkering with code or tech, you'll find me cooking up something de
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/pscedu/singularity-lowcharts/pull/2) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
-2. 🔒 Closed issue [#2](https://github.com/pscedu/singularity-lazygit/issues/2) in [pscedu/singularity-lazygit](https://github.com/pscedu/singularity-lazygit)
-3. 🎉 Merged PR [#3](https://github.com/pscedu/singularity-lazygit/pull/3) in [pscedu/singularity-lazygit](https://github.com/pscedu/singularity-lazygit)
-4. 🔒 Closed issue [#8](https://github.com/pscedu/singularity-octave/issues/8) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
-5. 🎉 Merged PR [#10](https://github.com/pscedu/singularity-octave/pull/10) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
+1. 🔒 Closed issue [#1](https://github.com/pscedu/singularity-lowcharts/issues/1) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
+2. 🎉 Merged PR [#2](https://github.com/pscedu/singularity-lowcharts/pull/2) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
+3. 💪 Opened PR [#2](https://github.com/pscedu/singularity-lowcharts/pull/2) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
+4. 🔒 Closed issue [#2](https://github.com/pscedu/singularity-lazygit/issues/2) in [pscedu/singularity-lazygit](https://github.com/pscedu/singularity-lazygit)
+5. 🎉 Merged PR [#3](https://github.com/pscedu/singularity-lazygit/pull/3) in [pscedu/singularity-lazygit](https://github.com/pscedu/singularity-lazygit)
 <!--END_SECTION:activity-->
 
 ### Statistics
