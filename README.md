@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/icaoberg/dont-be-square/issues/1) in [icaoberg/dont-be-square](https://github.com/icaoberg/dont-be-square)
-2. 🔒 Closed issue [#1](https://github.com/pscedu/singularity-lowcharts/issues/1) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
-3. 🎉 Merged PR [#2](https://github.com/pscedu/singularity-lowcharts/pull/2) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
-4. 💪 Opened PR [#2](https://github.com/pscedu/singularity-lowcharts/pull/2) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
-5. 🔒 Closed issue [#2](https://github.com/pscedu/singularity-lazygit/issues/2) in [pscedu/singularity-lazygit](https://github.com/pscedu/singularity-lazygit)
+1. 🔒 Closed issue [#2](https://github.com/icaoberg/python-get-forecast/issues/2) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+2. 🎉 Merged PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+3. 💪 Opened PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+4. ❗ Opened issue [#2](https://github.com/icaoberg/python-get-forecast/issues/2) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+5. ❗ Opened issue [#1](https://github.com/icaoberg/dont-be-square/issues/1) in [icaoberg/dont-be-square](https://github.com/icaoberg/dont-be-square)
 <!--END_SECTION:activity-->
 
 ### Statistics
