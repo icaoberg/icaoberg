@@ -1,9 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=icaoberg)
 
 # About Me
-Hi there! I'm a research software specialist passionate about exploring technology in science-driven projects. I enjoy contributing to open-source projects, finding creative ways to repurpose old tech, and experimenting with the latest tools and technologies.
+👋 Hi there! I'm a Biomedical Research Software Engineer with a passion for building technology that empowers scientific discovery. Whether it’s streamlining computational biology workflows or crafting robust software tools, I thrive at the intersection of research and innovation.
 
-When I'm not tinkering with code or tech, you'll find me cooking up something delicious or relaxing with great music in the background. Let's collaborate and build something amazing!
+I love breathing new life into aging tech, contributing to open-source communities, and experimenting with cutting-edge tools that push the boundaries of what's possible in science. My work bridges the gap between complex data and meaningful insight.
+
+When I’m not knee-deep in code, you’ll probably find me in the kitchen trying out a new recipe, vibing to music, or dreaming up the next big project. Let’s connect and create something extraordinary—together.
 
 ## News
 * [Getting to know Ivan](https://www.psc.edu/ivan-inside-psc-spotlight-2/)
