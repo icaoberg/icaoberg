@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/icaoberg/python-get-forecast/issues/2) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
-2. 🎉 Merged PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
-3. 💪 Opened PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
-4. ❗ Opened issue [#2](https://github.com/icaoberg/python-get-forecast/issues/2) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
-5. ❗ Opened issue [#1](https://github.com/icaoberg/dont-be-square/issues/1) in [icaoberg/dont-be-square](https://github.com/icaoberg/dont-be-square)
+1. 🔒 Closed issue [#7](https://github.com/pscedu/singularity-octave/issues/7) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
+2. 🎉 Merged PR [#11](https://github.com/pscedu/singularity-octave/pull/11) in [pscedu/singularity-octave](https://github.com/pscedu/singularity-octave)
+3. 🔒 Closed issue [#2](https://github.com/icaoberg/python-get-forecast/issues/2) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+4. 🎉 Merged PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+5. 💪 Opened PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
 <!--END_SECTION:activity-->
 
 ### Statistics
