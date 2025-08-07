@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.8](https://github.com/pscedu/singularity-shellcheck/releases/tag/v0.8) in [pscedu/singularity-shellcheck](https://github.com/pscedu/singularity-shellcheck)
-2. 🚀 Published release [Version 0.8](https://github.com/pscedu/singularity-wordgrinder/releases/tag/v0.8) in [pscedu/singularity-wordgrinder](https://github.com/pscedu/singularity-wordgrinder)
-3. 🚀 Published release [Version 3.2](https://github.com/pscedu/singularity-visidata/releases/tag/v3.2) in [pscedu/singularity-visidata](https://github.com/pscedu/singularity-visidata)
-4. 🎉 Merged PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
-5. 💪 Opened PR [#3](https://github.com/icaoberg/python-get-forecast/pull/3) in [icaoberg/python-get-forecast](https://github.com/icaoberg/python-get-forecast)
+1. 🚀 Published release [Version 7.1.1](https://github.com/pscedu/singularity-ffmpeg/releases/tag/v7.1.1) in [pscedu/singularity-ffmpeg](https://github.com/pscedu/singularity-ffmpeg)
+2. 🚀 Published release [Version 0.5.9](https://github.com/pscedu/singularity-lowcharts/releases/tag/v0.5.9) in [pscedu/singularity-lowcharts](https://github.com/pscedu/singularity-lowcharts)
+3. 🚀 Published release [Version 1.7.3](https://github.com/pscedu/singularity-rclone/releases/tag/v1.70.3) in [pscedu/singularity-rclone](https://github.com/pscedu/singularity-rclone)
+4. 🚀 Published release [Version 0.8](https://github.com/pscedu/singularity-shellcheck/releases/tag/v0.8) in [pscedu/singularity-shellcheck](https://github.com/pscedu/singularity-shellcheck)
+5. 🚀 Published release [Version 0.8](https://github.com/pscedu/singularity-wordgrinder/releases/tag/v0.8) in [pscedu/singularity-wordgrinder](https://github.com/pscedu/singularity-wordgrinder)
 <!--END_SECTION:activity-->
 
 ### Statistics
