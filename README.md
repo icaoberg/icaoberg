@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/pscedu/singularity/issues/8) in [pscedu/singularity](https://github.com/pscedu/singularity)
-2. 🔒 Closed issue [#6](https://github.com/pscedu/singularity/issues/6) in [pscedu/singularity](https://github.com/pscedu/singularity)
-3. 🎉 Merged PR [#7](https://github.com/pscedu/singularity/pull/7) in [pscedu/singularity](https://github.com/pscedu/singularity)
-4. 💪 Opened PR [#7](https://github.com/pscedu/singularity/pull/7) in [pscedu/singularity](https://github.com/pscedu/singularity)
-5. ❗ Opened issue [#6](https://github.com/pscedu/singularity/issues/6) in [pscedu/singularity](https://github.com/pscedu/singularity)
+1. 🚀 Published release [Version 2.6.3](https://github.com/pscedu/singularity-prodigal/releases/tag/v2.6.3) in [pscedu/singularity-prodigal](https://github.com/pscedu/singularity-prodigal)
+2. 🔒 Closed issue [#8](https://github.com/pscedu/singularity/issues/8) in [pscedu/singularity](https://github.com/pscedu/singularity)
+3. 🎉 Merged PR [#9](https://github.com/pscedu/singularity/pull/9) in [pscedu/singularity](https://github.com/pscedu/singularity)
+4. 💪 Opened PR [#9](https://github.com/pscedu/singularity/pull/9) in [pscedu/singularity](https://github.com/pscedu/singularity)
+5. ❗ Opened issue [#8](https://github.com/pscedu/singularity/issues/8) in [pscedu/singularity](https://github.com/pscedu/singularity)
 <!--END_SECTION:activity-->
 
 ### Statistics
