@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 2.0.0](https://github.com/pscedu/singularity-rnaview/releases/tag/v2.0.0) in [pscedu/singularity-rnaview](https://github.com/pscedu/singularity-rnaview)
-2. 🚀 Published release [Version 2.6.3](https://github.com/pscedu/singularity-prodigal/releases/tag/v2.6.3) in [pscedu/singularity-prodigal](https://github.com/pscedu/singularity-prodigal)
-3. 🔒 Closed issue [#8](https://github.com/pscedu/singularity/issues/8) in [pscedu/singularity](https://github.com/pscedu/singularity)
-4. 🎉 Merged PR [#9](https://github.com/pscedu/singularity/pull/9) in [pscedu/singularity](https://github.com/pscedu/singularity)
-5. 💪 Opened PR [#9](https://github.com/pscedu/singularity/pull/9) in [pscedu/singularity](https://github.com/pscedu/singularity)
+1. 🚀 Published release [Version 3.0.4](https://github.com/pscedu/singularity-gimp/releases/tag/v3.0.4) in [pscedu/singularity-gimp](https://github.com/pscedu/singularity-gimp)
+2. 🚀 Published release [Version 2.10](https://github.com/pscedu/singularity-gimp/releases/tag/v2.10) in [pscedu/singularity-gimp](https://github.com/pscedu/singularity-gimp)
+3. 🚀 Published release [Version 2.0.0](https://github.com/pscedu/singularity-rnaview/releases/tag/v2.0.0) in [pscedu/singularity-rnaview](https://github.com/pscedu/singularity-rnaview)
+4. 🚀 Published release [Version 2.6.3](https://github.com/pscedu/singularity-prodigal/releases/tag/v2.6.3) in [pscedu/singularity-prodigal](https://github.com/pscedu/singularity-prodigal)
+5. 🔒 Closed issue [#8](https://github.com/pscedu/singularity/issues/8) in [pscedu/singularity](https://github.com/pscedu/singularity)
 <!--END_SECTION:activity-->
 
 ### Statistics
