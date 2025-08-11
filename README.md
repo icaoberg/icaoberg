@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.2.2](https://github.com/pscedu/singularity-inkscape/releases/tag/v1.2.2) in [pscedu/singularity-inkscape](https://github.com/pscedu/singularity-inkscape)
-2. 🚀 Published release [Version 3.0.4](https://github.com/pscedu/singularity-gimp/releases/tag/v3.0.4) in [pscedu/singularity-gimp](https://github.com/pscedu/singularity-gimp)
-3. 🚀 Published release [Version 2.10](https://github.com/pscedu/singularity-gimp/releases/tag/v2.10) in [pscedu/singularity-gimp](https://github.com/pscedu/singularity-gimp)
-4. 🚀 Published release [Version 2.0.0](https://github.com/pscedu/singularity-rnaview/releases/tag/v2.0.0) in [pscedu/singularity-rnaview](https://github.com/pscedu/singularity-rnaview)
-5. 🚀 Published release [Version 2.6.3](https://github.com/pscedu/singularity-prodigal/releases/tag/v2.6.3) in [pscedu/singularity-prodigal](https://github.com/pscedu/singularity-prodigal)
+1. 🚀 Published release [Version 1.10.2](https://github.com/pscedu/singularity-bcftools/releases/tag/v1.10.2) in [pscedu/singularity-bcftools](https://github.com/pscedu/singularity-bcftools)
+2. 🚀 Published release [Version 8](https://github.com/pscedu/singularity-anvio/releases/tag/v8) in [pscedu/singularity-anvio](https://github.com/pscedu/singularity-anvio)
+3. 🚀 Published release [Version 3.5](https://github.com/pscedu/singularity-augustus/releases/tag/v3.5) in [pscedu/singularity-augustus](https://github.com/pscedu/singularity-augustus)
+4. 🚀 Published release [Version 1.2.2](https://github.com/pscedu/singularity-inkscape/releases/tag/v1.2.2) in [pscedu/singularity-inkscape](https://github.com/pscedu/singularity-inkscape)
+5. 🚀 Published release [Version 3.0.4](https://github.com/pscedu/singularity-gimp/releases/tag/v3.0.4) in [pscedu/singularity-gimp](https://github.com/pscedu/singularity-gimp)
 <!--END_SECTION:activity-->
 
 ### Statistics
