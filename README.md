@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.75.0](https://github.com/pscedu/singularity-rust/releases/tag/v1.75.0) in [pscedu/singularity-rust](https://github.com/pscedu/singularity-rust)
-2. 🚀 Published release [Version 36](https://github.com/pscedu/singularity-blat/releases/tag/v36) in [pscedu/singularity-blat](https://github.com/pscedu/singularity-blat)
-3. 🚀 Published release [Version 1.10.2](https://github.com/pscedu/singularity-bcftools/releases/tag/v1.10.2) in [pscedu/singularity-bcftools](https://github.com/pscedu/singularity-bcftools)
-4. 🚀 Published release [Version 8](https://github.com/pscedu/singularity-anvio/releases/tag/v8) in [pscedu/singularity-anvio](https://github.com/pscedu/singularity-anvio)
-5. 🚀 Published release [Version 3.5](https://github.com/pscedu/singularity-augustus/releases/tag/v3.5) in [pscedu/singularity-augustus](https://github.com/pscedu/singularity-augustus)
+1. 🔒 Closed issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
+2. 🔓 Reopened issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
+3. 🔒 Closed issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
+4. 🚀 Published release [Version 5.32.1-patch1](https://github.com/pscedu/singularity-tiger/releases/tag/v5.32.1-patch1) in [pscedu/singularity-tiger](https://github.com/pscedu/singularity-tiger)
+5. 🚀 Published release [Version 1.75.0](https://github.com/pscedu/singularity-rust/releases/tag/v1.75.0) in [pscedu/singularity-rust](https://github.com/pscedu/singularity-rust)
 <!--END_SECTION:activity-->
 
 ### Statistics
