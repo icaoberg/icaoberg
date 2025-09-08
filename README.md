@@ -17,10 +17,10 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ### Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Version 1.6.21](https://github.com/pscedu/singularity-vcf2maf/releases/tag/v1.6.21) in [pscedu/singularity-vcf2maf](https://github.com/pscedu/singularity-vcf2maf)
-2. 🔒 Closed issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
-3. 🔓 Reopened issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
+2. 🔒 Closed issue [#14](https://github.com/pscedu/singularity-hyperfine/issues/14) in [pscedu/singularity-hyperfine](https://github.com/pscedu/singularity-hyperfine)
+3. 🚀 Published release [Version 1.0.20](https://github.com/pscedu/singularity-btop/releases/tag/v1.0.20) in [pscedu/singularity-btop](https://github.com/pscedu/singularity-btop)
 4. 🔒 Closed issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
-5. 🚀 Published release [Version 5.32.1-patch1](https://github.com/pscedu/singularity-tiger/releases/tag/v5.32.1-patch1) in [pscedu/singularity-tiger](https://github.com/pscedu/singularity-tiger)
+5. 🔓 Reopened issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
 <!--END_SECTION:activity-->
 
 ### Statistics
