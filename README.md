@@ -14,7 +14,7 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 * [CMU student charters plane to help victims of Hurricane Maria](http://thetartan.org/2017/10/30/news/puerto-rico-aid)
 
 ## GitHub
-### Activity
+### 🎯 Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Version 1.6.21](https://github.com/pscedu/singularity-vcf2maf/releases/tag/v1.6.21) in [pscedu/singularity-vcf2maf](https://github.com/pscedu/singularity-vcf2maf)
 2. 🔒 Closed issue [#4](https://github.com/pscedu/singularity-abyss/issues/4) in [pscedu/singularity-abyss](https://github.com/pscedu/singularity-abyss)
@@ -23,10 +23,10 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 5. 🚀 Published release [Version 5.32.1-patch1](https://github.com/pscedu/singularity-tiger/releases/tag/v5.32.1-patch1) in [pscedu/singularity-tiger](https://github.com/pscedu/singularity-tiger)
 <!--END_SECTION:activity-->
 
-### Statistics
+### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
-### Languages
+### 🛠️ Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M)
 
 # Reddit
