@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#5](https://github.com/CBDatCMU/cluster-documentation/issues/5) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-2. ❗ Opened issue [#5](https://github.com/CBDatCMU/cluster-documentation/issues/5) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-3.  Labeled issue [#4](https://github.com/CBDatCMU/cluster-documentation/issues/4) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-4. ❗ Opened issue [#4](https://github.com/CBDatCMU/cluster-documentation/issues/4) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-5.  Labeled issue [#3](https://github.com/CBDatCMU/cluster-documentation/issues/3) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1.  Labeled issue [#6](https://github.com/CBDatCMU/cluster-documentation/issues/6) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+2. ❗ Opened issue [#6](https://github.com/CBDatCMU/cluster-documentation/issues/6) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+3.  Assigned issue [#6](https://github.com/CBDatCMU/cluster-documentation/issues/6) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+4.  Assigned issue [#6](https://github.com/CBDatCMU/cluster-documentation/issues/6) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+5.  Labeled issue [#5](https://github.com/CBDatCMU/cluster-documentation/issues/5) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 <!--END_SECTION:activity-->
 
 ### Statistics
