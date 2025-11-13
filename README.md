@@ -16,11 +16,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#7](https://github.com/CBDatCMU/cluster-documentation/issues/7) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-2. ❗ Opened issue [#7](https://github.com/CBDatCMU/cluster-documentation/issues/7) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-3.  Assigned issue [#7](https://github.com/CBDatCMU/cluster-documentation/issues/7) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-4.  Assigned issue [#7](https://github.com/CBDatCMU/cluster-documentation/issues/7) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-5.  Labeled issue [#6](https://github.com/CBDatCMU/cluster-documentation/issues/6) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1. ❌ Labeled PR [#8](undefined) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+2. 💪 Opened PR [#8](undefined) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+3. ❌ Assigned PR [#8](undefined) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+4. 🗣 Commented on [#1](https://github.com/CBDatCMU/cluster-documentation/issues/1#issuecomment-3529945156) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+5.  Labeled issue [#7](https://github.com/CBDatCMU/cluster-documentation/issues/7) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 <!--END_SECTION:activity-->
 
 ### Statistics
