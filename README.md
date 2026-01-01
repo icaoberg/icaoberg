@@ -17,7 +17,7 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ### Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/CBDatCMU/cluster-documentation/issues/1#issuecomment-3667493873) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-2. ❌ Merged PR [#8](undefined) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+2. 🎉 Merged PR [#8](https://github.com/CBDatCMU/cluster-documentation/pull/8) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 3.  Assigned issue [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 4. 🗣 Commented on [#1](https://github.com/CBDatCMU/cluster-documentation/issues/1#issuecomment-3530694108) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 5.  Labeled issue [#10](https://github.com/CBDatCMU/cluster-documentation/issues/10) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
