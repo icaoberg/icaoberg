@@ -31,9 +31,9 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 
 # Reddit
 <!-- BLOG-POST-LIST:START -->
-- [vampire inquiries [oc]](https://www.reddit.com/r/u_icaoberg/comments/1705gy9/vampire_inquiries_oc/)
-- [Never Give Up!](https://www.reddit.com/r/u_icaoberg/comments/13mcab5/never_give_up/)
-- [of course not..](https://www.reddit.com/r/u_icaoberg/comments/13mc9h5/of_course_not/)
-- [A little rebel :&rpar;](https://www.reddit.com/r/u_icaoberg/comments/13mc6yc/a_little_rebel/)
-- [Ah yes, the rock-topus](https://www.reddit.com/r/u_icaoberg/comments/13mc4xk/ah_yes_the_rocktopus/)
+- [/u/icaoberg on Strange silicon tube, ribbed on the inside](https://www.reddit.com/r/whatisit/comments/1pvsun9/strange_silicon_tube_ribbed_on_the_inside/nw8ahfl/)
+- [/u/icaoberg on I’m 13 and I finally understood print vs return in Python](https://www.reddit.com/r/pythontips/comments/1puzfnj/im_13_and_i_finally_understood_print_vs_return_in/nw8a5km/)
+- [New Class For Creating Zoomed In and Nested Plots](https://www.reddit.com/r/u_icaoberg/comments/1p32myi/new_class_for_creating_zoomed_in_and_nested_plots/)
+- [thankYouForKeepingItShort](https://www.reddit.com/r/u_icaoberg/comments/1hx83t9/thankyouforkeepingitshort/)
+- [whichLintRules](https://www.reddit.com/r/u_icaoberg/comments/1hx83n8/whichlintrules/)
 <!-- BLOG-POST-LIST:END -->
