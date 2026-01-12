@@ -14,7 +14,7 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 * [CMU student charters plane to help victims of Hurricane Maria](http://thetartan.org/2017/10/30/news/puerto-rico-aid)
 
 ## GitHub
-### Activity
+### 🎯 Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/CBDatCMU/cluster-documentation/issues/1#issuecomment-3667493873) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 2. 🎉 Merged PR [#8](https://github.com/CBDatCMU/cluster-documentation/pull/8) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
@@ -23,10 +23,10 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 5.  Labeled issue [#10](https://github.com/CBDatCMU/cluster-documentation/issues/10) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 <!--END_SECTION:activity-->
 
-### Statistics
+### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
-### Languages
+### 🛠️ Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M)
 
 # Reddit
