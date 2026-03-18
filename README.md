@@ -16,7 +16,7 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CBDatCMU/cluster-documentation/issues/1#issuecomment-3667493873) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1. 🚀 Published release [Version 0.1](https://github.com/brain-image-library/py-spectrabrainz/releases/tag/v0.1) in [brain-image-library/py-spectrabrainz](https://github.com/brain-image-library/py-spectrabrainz)
 2. 🎉 Merged PR [#8](https://github.com/CBDatCMU/cluster-documentation/pull/8) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 3.  Assigned issue [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 4. 🗣 Commented on [#1](https://github.com/CBDatCMU/cluster-documentation/issues/1#issuecomment-3530694108) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
