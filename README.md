@@ -8,10 +8,8 @@ I love breathing new life into aging tech, contributing to open-source communiti
 When I’m not knee-deep in code, you’ll probably find me in the kitchen trying out a new recipe, vibing to music, or dreaming up the next big project. Let’s connect and create something extraordinary—together.
 
 ## News
-* [Getting to know Ivan](https://www.psc.edu/ivan-inside-psc-spotlight-2/)
 * [Mr. Cao-Berg's Neighborhood](https://www.cmu.edu/mcs/news-events/2021/1013_barrio-latino-radio.html)
 * [Cao-Berg Helped Bring Aid to Puerto Rico](https://www.cmu.edu/piper/news/archives/2018/february/ivan-cao-berg.html)
-* [CMU student charters plane to help victims of Hurricane Maria](http://thetartan.org/2017/10/30/news/puerto-rico-aid)
 
 ## GitHub
 ### Activity
