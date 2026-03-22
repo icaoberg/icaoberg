@@ -14,10 +14,10 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.1](https://github.com/brain-image-library/py-spectrabrainz/releases/tag/v0.1) in [brain-image-library/py-spectrabrainz](https://github.com/brain-image-library/py-spectrabrainz)
-2. 🎉 Merged PR [#8](https://github.com/CBDatCMU/cluster-documentation/pull/8) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-3.  Assigned issue [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-4. 🗣 Commented on [#1](https://github.com/CBDatCMU/cluster-documentation/issues/1#issuecomment-3530694108) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1. 🎉 Merged PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
+2. ℹ️ Assigned PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
+3. 💪 Opened PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
+4. 🚀 Published release [Version 0.1](https://github.com/brain-image-library/py-spectrabrainz/releases/tag/v0.1) in [brain-image-library/py-spectrabrainz](https://github.com/brain-image-library/py-spectrabrainz)
 5.  Labeled issue [#10](https://github.com/CBDatCMU/cluster-documentation/issues/10) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 <!--END_SECTION:activity-->
 
