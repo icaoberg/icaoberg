@@ -14,11 +14,11 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 ## GitHub
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
-2. ℹ️ Assigned PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
-3. 💪 Opened PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
-4. 🚀 Published release [Version 0.1](https://github.com/brain-image-library/py-spectrabrainz/releases/tag/v0.1) in [brain-image-library/py-spectrabrainz](https://github.com/brain-image-library/py-spectrabrainz)
-5.  Labeled issue [#10](https://github.com/CBDatCMU/cluster-documentation/issues/10) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1. 🚀 Published release [Version 4.4.3](https://github.com/pscedu/singularity-nbia-data-retriever/releases/tag/v4.4.3) in [pscedu/singularity-nbia-data-retriever](https://github.com/pscedu/singularity-nbia-data-retriever)
+2. 🎉 Merged PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
+3. ℹ️ Assigned PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
+4. 💪 Opened PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
+5. 🚀 Published release [Version 0.1](https://github.com/brain-image-library/py-spectrabrainz/releases/tag/v0.1) in [brain-image-library/py-spectrabrainz](https://github.com/brain-image-library/py-spectrabrainz)
 <!--END_SECTION:activity-->
 
 ### Statistics
