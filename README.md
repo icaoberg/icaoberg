@@ -12,7 +12,7 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 * [Cao-Berg Helped Bring Aid to Puerto Rico](https://www.cmu.edu/piper/news/archives/2018/february/ivan-cao-berg.html)
 
 ## GitHub
-### Activity
+### 🎯 Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Version 18.8cc5c](https://github.com/pscedu/singularity-mmseqs2/releases/tag/v18.8cc5c) in [pscedu/singularity-mmseqs2](https://github.com/pscedu/singularity-mmseqs2)
 2. 🚀 Published release [Version 4.4.3](https://github.com/pscedu/singularity-nbia-data-retriever/releases/tag/v4.4.3) in [pscedu/singularity-nbia-data-retriever](https://github.com/pscedu/singularity-nbia-data-retriever)
@@ -21,10 +21,10 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 5. 💪 Opened PR [#1](https://github.com/brain-image-library/py-inventory-builder/pull/1) in [brain-image-library/py-inventory-builder](https://github.com/brain-image-library/py-inventory-builder)
 <!--END_SECTION:activity-->
 
-### Statistics
+### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
-### Languages
+### 🛠️ Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M)
 
 # Reddit
