@@ -12,7 +12,7 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 * [Cao-Berg Helped Bring Aid to Puerto Rico](https://www.cmu.edu/piper/news/archives/2018/february/ivan-cao-berg.html)
 
 ## GitHub
-### Activity
+### 🎯 Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Version 2.3.1](https://github.com/icaoberg/singularity-boxes/releases/tag/v2.3.1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
 2. 🚀 Published release [Version 6.0](https://github.com/icaoberg/singularity-chalk-cli/releases/tag/v6.0) in [icaoberg/singularity-chalk-cli](https://github.com/icaoberg/singularity-chalk-cli)
@@ -21,10 +21,10 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 5. 🚀 Published release [Version 4.4.3](https://github.com/pscedu/singularity-nbia-data-retriever/releases/tag/v4.4.3) in [pscedu/singularity-nbia-data-retriever](https://github.com/pscedu/singularity-nbia-data-retriever)
 <!--END_SECTION:activity-->
 
-### Statistics
+### 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
-### Languages
+### 🛠️ Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M)
 
 # Reddit
