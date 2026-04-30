@@ -61,13 +61,6 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 
 ![Snake](https://raw.githubusercontent.com/icaoberg/icaoberg/output/github-contribution-grid-snake.svg)
 
-## Featured Projects
-
-[![singularity-boxes](https://github-readme-stats.vercel.app/api/pin/?username=icaoberg&repo=singularity-boxes)](https://github.com/icaoberg/singularity-boxes)
-[![singularity-chalk-cli](https://github-readme-stats.vercel.app/api/pin/?username=icaoberg&repo=singularity-chalk-cli)](https://github.com/icaoberg/singularity-chalk-cli)
-[![py-spectrabrainz](https://github-readme-stats.vercel.app/api/pin/?username=brain-image-library&repo=py-spectrabrainz)](https://github.com/brain-image-library/py-spectrabrainz)
-[![singularity-nbia-data-retriever](https://github-readme-stats.vercel.app/api/pin/?username=pscedu&repo=singularity-nbia-data-retriever)](https://github.com/pscedu/singularity-nbia-data-retriever)
-
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
