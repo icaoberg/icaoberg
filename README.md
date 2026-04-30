@@ -1,18 +1,42 @@
-![](https://komarev.com/ghpvc/?username=icaoberg)
+![Profile Views](https://komarev.com/ghpvc/?username=icaoberg&label=Profile+Views&color=blue&style=flat)
 
 # About Me
-👋 Hi there! I'm a Biomedical Research Software Engineer with a passion for building technology that empowers scientific discovery. Whether it’s streamlining computational biology workflows or crafting robust software tools, I thrive at the intersection of research and innovation.
+
+👋 Hi there! I'm a Biomedical Research Software Engineer at the [Pittsburgh Supercomputing Center](https://www.psc.edu/ivan-cao-berg/), where I work in the Biomedical Applications Group on projects like [HuBMAP](https://hubmapconsortium.org/), the [Brain Image Library](https://www.brainimagelibrary.org/), and [SenNet](https://sennetconsortium.org/).
 
 I love breathing new life into aging tech, contributing to open-source communities, and experimenting with cutting-edge tools that push the boundaries of what's possible in science. My work bridges the gap between complex data and meaningful insight.
 
-When I’m not knee-deep in code, you’ll probably find me in the kitchen trying out a new recipe, vibing to music, or dreaming up the next big project. Let’s connect and create something extraordinary—together.
+When I'm not knee-deep in code, you'll find me in the kitchen trying out a new recipe, or dreaming up the next big project. Let's connect and create something extraordinary—together.
+
+[![PSC](https://img.shields.io/badge/Pittsburgh_Supercomputing_Center-0057A8?style=flat&logo=academia&logoColor=white)](https://www.psc.edu/ivan-cao-berg/)
+[![Blog](https://img.shields.io/badge/Blog-andrew.cmu.edu-C41230?style=flat&logo=hugo&logoColor=white)](https://www.andrew.cmu.edu/user/icaoberg/)
+
+## Currently Working On
+
+- 🧬 [HuBMAP](https://hubmapconsortium.org/) — Human BioMolecular Atlas Program
+- 🧠 [Brain Image Library](https://www.brainimagelibrary.org/) — Large-scale brain image data infrastructure
+- 🔬 [SenNet](https://sennetconsortium.org/) — Mapping senescent cells across the human body
+
+## Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=py,bash,docker,linux,git,github,vscode)](https://skillicons.dev)
+
+![Singularity](https://img.shields.io/badge/Singularity-1A4A7A?style=flat&logo=sylabs&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-Pittsburgh_Supercomputing_Center-0057A8?style=flat)
 
 ## News
+
 * [Mr. Cao-Berg's Neighborhood](https://www.cmu.edu/mcs/news-events/2021/1013_barrio-latino-radio.html)
 * [Cao-Berg Helped Bring Aid to Puerto Rico](https://www.cmu.edu/piper/news/archives/2018/february/ivan-cao-berg.html)
 
 ## GitHub
+
+### Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=icaoberg&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Activity
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#178](https://github.com/pscedu/psc-wpdocs/pull/178) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
 2. 🚀 Published release [Version 2.3.1](https://github.com/icaoberg/singularity-boxes/releases/tag/v2.3.1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
@@ -22,16 +46,25 @@ When I’m not knee-deep in code, you’ll probably find me in the kitchen tryin
 <!--END_SECTION:activity-->
 
 ### Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
 
-### Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M&layout=pie)
 
-# Reddit
+### Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=icaoberg)](https://git.io/streak-stats)
+
+### Contribution Graph
+
+![Snake](https://raw.githubusercontent.com/icaoberg/icaoberg/output/github-contribution-grid-snake.svg)
+
+## Featured Projects
+
+[![singularity-boxes](https://github-readme-stats.vercel.app/api/pin/?username=icaoberg&repo=singularity-boxes)](https://github.com/icaoberg/singularity-boxes)
+[![singularity-chalk-cli](https://github-readme-stats.vercel.app/api/pin/?username=icaoberg&repo=singularity-chalk-cli)](https://github.com/icaoberg/singularity-chalk-cli)
+[![py-spectrabrainz](https://github-readme-stats.vercel.app/api/pin/?username=brain-image-library&repo=py-spectrabrainz)](https://github.com/brain-image-library/py-spectrabrainz)
+[![singularity-nbia-data-retriever](https://github-readme-stats.vercel.app/api/pin/?username=pscedu&repo=singularity-nbia-data-retriever)](https://github.com/pscedu/singularity-nbia-data-retriever)
+
+# Blog
+
 <!-- BLOG-POST-LIST:START -->
-- [/u/icaoberg on Strange silicon tube, ribbed on the inside](https://www.reddit.com/r/whatisit/comments/1pvsun9/strange_silicon_tube_ribbed_on_the_inside/nw8ahfl/)
-- [/u/icaoberg on I’m 13 and I finally understood print vs return in Python](https://www.reddit.com/r/pythontips/comments/1puzfnj/im_13_and_i_finally_understood_print_vs_return_in/nw8a5km/)
-- [New Class For Creating Zoomed In and Nested Plots](https://www.reddit.com/r/u_icaoberg/comments/1p32myi/new_class_for_creating_zoomed_in_and_nested_plots/)
-- [thankYouForKeepingItShort](https://www.reddit.com/r/u_icaoberg/comments/1hx83t9/thankyouforkeepingitshort/)
-- [whichLintRules](https://www.reddit.com/r/u_icaoberg/comments/1hx83n8/whichlintrules/)
 <!-- BLOG-POST-LIST:END -->
