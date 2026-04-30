@@ -5,7 +5,7 @@
 [![PSC](https://img.shields.io/badge/Pittsburgh_Supercomputing_Center-0057A8?style=flat&logo=academia&logoColor=white)](https://www.psc.edu/ivan-cao-berg/)
 [![Blog](https://img.shields.io/badge/Blog-andrew.cmu.edu-C41230?style=flat&logo=hugo&logoColor=white)](https://www.andrew.cmu.edu/user/icaoberg/)
 
-👋 Hi there! I'm a Biomedical Research Software Engineer at the [Pittsburgh Supercomputing Center](https://www.psc.edu/ivan-cao-berg/), where I work in the Biomedical Applications Group on projects like [HuBMAP](https://hubmapconsortium.org/), the [Brain Image Library](https://www.brainimagelibrary.org/), and [SenNet](https://sennetconsortium.org/).
+👋 Hi there! I'm a Biomedical Research Software Engineer at the [Pittsburgh Supercomputing Center](https://www.psc.edu/ivan-cao-berg/), where I work in the Biomedical Applications Group on projects.
 
 I love breathing new life into aging tech, contributing to open-source communities, and experimenting with cutting-edge tools that push the boundaries of what's possible in science. My work bridges the gap between complex data and meaningful insight.
 
@@ -16,6 +16,8 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 - 🧬 [HuBMAP](https://hubmapconsortium.org/) — Human BioMolecular Atlas Program
 - 🧠 [Brain Image Library](https://www.brainimagelibrary.org/) — Large-scale brain image data infrastructure
 - 🔬 [SenNet](https://sennetconsortium.org/) — Mapping senescent cells across the human body
+- 🖥️ [ACCESS Bridges-2](https://www.psc.edu/resources/bridges-2/) — Advanced computing system at the Pittsburgh Supercomputing Center
+- 🔭 [Lane Computational Biology](https://www.cmu.edu/lane/) — Lane Center for Computational Biology at Carnegie Mellon University
 
 ## Tech Stack
 
