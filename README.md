@@ -49,7 +49,9 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 
 ### Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M&layout=pie)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaoberg&count_private=true&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaoberg&show_icons=true&langs_count=10&hide=HTML,C,CSS,M&layout=pie)
 
 ### Streak
 
