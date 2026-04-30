@@ -2,14 +2,14 @@
 
 # About Me
 
+[![PSC](https://img.shields.io/badge/Pittsburgh_Supercomputing_Center-0057A8?style=flat&logo=academia&logoColor=white)](https://www.psc.edu/ivan-cao-berg/)
+[![Blog](https://img.shields.io/badge/Blog-andrew.cmu.edu-C41230?style=flat&logo=hugo&logoColor=white)](https://www.andrew.cmu.edu/user/icaoberg/)
+
 👋 Hi there! I'm a Biomedical Research Software Engineer at the [Pittsburgh Supercomputing Center](https://www.psc.edu/ivan-cao-berg/), where I work in the Biomedical Applications Group on projects like [HuBMAP](https://hubmapconsortium.org/), the [Brain Image Library](https://www.brainimagelibrary.org/), and [SenNet](https://sennetconsortium.org/).
 
 I love breathing new life into aging tech, contributing to open-source communities, and experimenting with cutting-edge tools that push the boundaries of what's possible in science. My work bridges the gap between complex data and meaningful insight.
 
 When I'm not knee-deep in code, you'll find me in the kitchen trying out a new recipe, or dreaming up the next big project. Let's connect and create something extraordinary—together.
-
-[![PSC](https://img.shields.io/badge/Pittsburgh_Supercomputing_Center-0057A8?style=flat&logo=academia&logoColor=white)](https://www.psc.edu/ivan-cao-berg/)
-[![Blog](https://img.shields.io/badge/Blog-andrew.cmu.edu-C41230?style=flat&logo=hugo&logoColor=white)](https://www.andrew.cmu.edu/user/icaoberg/)
 
 ## Currently Working On
 
