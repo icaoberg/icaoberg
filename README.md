@@ -2,7 +2,7 @@
 
 # About Me
 
-[![PSC](https://img.shields.io/badge/Pittsburgh_Supercomputing_Center-0057A8?style=flat&logo=academia&logoColor=white)](https://www.psc.edu/ivan-cao-berg/)
+![PSC](https://img.shields.io/badge/Pittsburgh_Supercomputing_Center-0057A8?style=flat&logo=academia&logoColor=white)
 [![Blog](https://img.shields.io/badge/Blog-andrew.cmu.edu-C41230?style=flat&logo=hugo&logoColor=white)](https://www.andrew.cmu.edu/user/icaoberg/)
 
 👋 Hi there! I'm a Biomedical Research Software Engineer at the [Pittsburgh Supercomputing Center](https://www.psc.edu/ivan-cao-berg/), where I work in the Biomedical Applications Group on projects.
