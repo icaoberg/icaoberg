@@ -35,11 +35,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/pscedu/psc-wpdocs/pull/178#issuecomment-4349560572) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
-2. 💪 Opened PR [#178](https://github.com/pscedu/psc-wpdocs/pull/178) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
-3. 🚀 Published release [Version 2.3.1](https://github.com/icaoberg/singularity-boxes/releases/tag/v2.3.1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
-4. 🚀 Published release [Version 6.0](https://github.com/icaoberg/singularity-chalk-cli/releases/tag/v6.0) in [icaoberg/singularity-chalk-cli](https://github.com/icaoberg/singularity-chalk-cli)
-5. 🚀 Published release [Version 0.2](https://github.com/brain-image-library/py-spectrabrainz/releases/tag/v0.2) in [brain-image-library/py-spectrabrainz](https://github.com/brain-image-library/py-spectrabrainz)
+1. 🎉 Merged PR [#178](https://github.com/pscedu/psc-wpdocs/pull/178) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
+2. 🗣 Commented on [#178](https://github.com/pscedu/psc-wpdocs/pull/178#issuecomment-4349560572) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
+3. 💪 Opened PR [#178](https://github.com/pscedu/psc-wpdocs/pull/178) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
+4. 🚀 Published release [Version 2.3.1](https://github.com/icaoberg/singularity-boxes/releases/tag/v2.3.1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
+5. 🚀 Published release [Version 6.0](https://github.com/icaoberg/singularity-chalk-cli/releases/tag/v6.0) in [icaoberg/singularity-chalk-cli](https://github.com/icaoberg/singularity-chalk-cli)
 <!--END_SECTION:activity-->
 
 ### Statistics
