@@ -60,8 +60,8 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 
 <!-- BLOG-POST-LIST:START -->
 - [Open Source Images: Where to Find Them](https://www.andrew.cmu.edu/user/icaoberg/post/2026-04-29-open-source-images/)
+- [awesome-cli-apps: A Curated List Worth Containerizing](https://www.andrew.cmu.edu/user/icaoberg/post/2026-04-30-awesome-cli-apps-and-singularity/)
 - [What Is Data Curation?](https://www.andrew.cmu.edu/user/icaoberg/post/2026-04-29-what-is-data-curation/)
 - [Dask Vs Numpy](https://www.andrew.cmu.edu/user/icaoberg/notebooks/dask_vs_numpy/)
 - [Intro To Dask](https://www.andrew.cmu.edu/user/icaoberg/notebooks/intro-to-dask/)
-- [Intro To Duckdb](https://www.andrew.cmu.edu/user/icaoberg/notebooks/intro-to-duckdb/)
 <!-- BLOG-POST-LIST:END -->
