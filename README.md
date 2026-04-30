@@ -17,7 +17,7 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 - 🧠 [Brain Image Library](https://www.brainimagelibrary.org/) — Large-scale brain image data infrastructure
 - 🔬 [SenNet](https://sennetconsortium.org/) — Mapping senescent cells across the human body
 - 🖥️ [ACCESS Bridges-2](https://www.psc.edu/resources/bridges-2/) — Advanced computing system at the Pittsburgh Supercomputing Center
-- 🔭 [Lane Computational Biology](https://www.cmu.edu/lane/) — Lane Center for Computational Biology at Carnegie Mellon University
+- 🔭 [Computational Biology](https://www.cmu.edu/lane/) — Lane Center for Computational Biology at Carnegie Mellon University
 
 ## Tech Stack
 
