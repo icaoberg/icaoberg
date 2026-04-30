@@ -26,11 +26,6 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ![Singularity](https://img.shields.io/badge/Singularity-1A4A7A?style=flat&logo=sylabs&logoColor=white)
 ![HPC](https://img.shields.io/badge/HPC-Pittsburgh_Supercomputing_Center-0057A8?style=flat)
 
-## News
-
-* [Mr. Cao-Berg's Neighborhood](https://www.cmu.edu/mcs/news-events/2021/1013_barrio-latino-radio.html)
-* [Cao-Berg Helped Bring Aid to Puerto Rico](https://www.cmu.edu/piper/news/archives/2018/february/ivan-cao-berg.html)
-
 ## GitHub
 
 ### Trophies
