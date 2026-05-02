@@ -47,12 +47,6 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 5. 🚀 Published release [Version 6.0](https://github.com/icaoberg/singularity-chalk-cli/releases/tag/v6.0) in [icaoberg/singularity-chalk-cli](https://github.com/icaoberg/singularity-chalk-cli)
 <!--END_SECTION:activity-->
 
-### Statistics
-
-![GitHub Stats](assets/github-stats.svg)
-
-![Languages](assets/top-langs.svg)
-
 ### Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=icaoberg)](https://git.io/streak-stats)
