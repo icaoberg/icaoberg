@@ -4,6 +4,8 @@
 
 ![PSC](https://img.shields.io/badge/Pittsburgh_Supercomputing_Center-0057A8?style=flat&logo=academia&logoColor=white)
 [![Blog](https://img.shields.io/badge/Blog-andrew.cmu.edu-C41230?style=flat&logo=hugo&logoColor=white)](https://www.andrew.cmu.edu/user/icaoberg/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4004--840X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4004-840X)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Ivan_Cao--Berg-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=XvHN0qgAAAAJ&hl=en)
 
 👋 Hi there! I'm a Biomedical Research Software Engineer at the [Pittsburgh Supercomputing Center](https://www.psc.edu/ivan-cao-berg/), where I work in the Biomedical Applications Group on projects.
 
