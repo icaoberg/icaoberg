@@ -1,0 +1,58 @@
+name: Featured Projects
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-featured-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest repos and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PYEOF'
+          import re, os, json
+          from urllib.request import Request, urlopen
+
+          token = os.environ["GITHUB_TOKEN"]
+          req = Request(
+              "https://api.github.com/users/icaoberg/repos?sort=updated&direction=desc&per_page=5",
+              headers={"Authorization": f"token {token}"}
+          )
+          repos = json.loads(urlopen(req).read())
+
+          table = "| Project | Description | Language |\n|---------|-------------|----------|\n"
+          for repo in repos:
+              name = repo["name"]
+              desc = (repo.get("description") or "—").replace("|", "\\|")
+              url = repo["html_url"]
+              lang = repo.get("language") or "—"
+              table += f"| [{name}]({url}) | {desc} | {lang} |\n"
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"(<!-- FEATURED-PROJECTS:START -->).*?(<!-- FEATURED-PROJECTS:END -->)",
+              f"\\1\n{table}\\2",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(new_content)
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m ":zap: Update README with featured projects"
+          git push

@@ -19,6 +19,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 - 🖥️ [ACCESS Bridges-2](https://www.psc.edu/resources/bridges-2/) — Advanced computing system at the Pittsburgh Supercomputing Center
 - 🔭 [Computational Biology](https://www.cmu.edu/lane/) — Lane Center for Computational Biology at Carnegie Mellon University
 
+## Featured Projects
+
+<!-- FEATURED-PROJECTS:START -->
+<!-- FEATURED-PROJECTS:END -->
+
 ## Tech Stack
 
 [![Skills](https://skillicons.dev/icons?i=py,bash,docker,linux,git,github,vscode)](https://skillicons.dev)
