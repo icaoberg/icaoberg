@@ -24,6 +24,13 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ## Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
+| Project | Description | Language |
+|---------|-------------|----------|
+| [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
+| [singularity-matlabmcr2018a](https://github.com/icaoberg/singularity-matlabmcr2018a) | Matlab MCR 2018a | Singularity |
+| [singularity-birthday](https://github.com/icaoberg/singularity-birthday) | Singularity recipe for birthday. | Shell |
+| [sams2024-fair](https://github.com/icaoberg/sams2024-fair) | SAMS 2024 pre-college project | Python |
+| [singularity-compression](https://github.com/icaoberg/singularity-compression) | Singularity compression for compression apps. | Shell |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
