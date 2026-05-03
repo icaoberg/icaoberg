@@ -27,10 +27,10 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 | Project | Description | Language |
 |---------|-------------|----------|
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
-| [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
-| [waldo](https://github.com/icaoberg/waldo) | Waldo Project | Python |
-| [omero-features](https://github.com/icaoberg/omero-features) | OMERO.features | Python |
-| [pyslid-docs](https://github.com/icaoberg/pyslid-docs) | Sphinx documentation for pyslid | Python |
+| [python-heap](https://github.com/icaoberg/python-heap) | Just a simple naive implementation in Python | Python |
+| [python-splay-tree](https://github.com/icaoberg/python-splay-tree) | Just a simple naive implementation in Python | Python |
+| [python-red-black](https://github.com/icaoberg/python-red-black) | Just a simple naive implementation in Python | Python |
+| [python-bst](https://github.com/icaoberg/python-bst) | Just a simple naive implementation in Python | Python |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
