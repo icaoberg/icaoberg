@@ -26,8 +26,8 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
+| [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
 | [murphylab186](https://github.com/icaoberg/murphylab186) | The software needed to recreate the tables and figures for the article: B.H. Cho, I. Cao-Berg, J.A. Bakal, and R.F. Murphy (2012) OMERO.searcher: Content-based image search for microscope images. Nature Methods 9:633-634. | Python |
 | [matlab-computer-vision-routines](https://github.com/icaoberg/matlab-computer-vision-routines) | — | MATLAB |
 | [latex-resume](https://github.com/icaoberg/latex-resume) | A resume document style for XeLaTeX | TeX |
