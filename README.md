@@ -26,11 +26,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
+| [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
 | [python-deque](https://github.com/icaoberg/python-deque) | Just a simple naive implementation in Python | Python |
 | [python-splay-tree](https://github.com/icaoberg/python-splay-tree) | Just a simple naive implementation in Python | Python |
 | [python-heap](https://github.com/icaoberg/python-heap) | Just a simple naive implementation in Python | Python |
-| [python-avl-tree](https://github.com/icaoberg/python-avl-tree) | Just a simple naive implementation in Python | Python |
-| [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
