@@ -26,11 +26,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
 | [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
-| [falcon-docs](https://github.com/icaoberg/falcon-docs) | htSphinx documentation for FALCON | Python |
-| [falcon](https://github.com/icaoberg/falcon) | FALCON: Feedback Adaptive Loop for Content-Based Retrieval | Python |
-| [singularity-matlabmcr2018a](https://github.com/icaoberg/singularity-matlabmcr2018a) | Matlab MCR 2018a | Singularity |
+| [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
+| [murphylab186](https://github.com/icaoberg/murphylab186) | The software needed to recreate the tables and figures for the article: B.H. Cho, I. Cao-Berg, J.A. Bakal, and R.F. Murphy (2012) OMERO.searcher: Content-based image search for microscope images. Nature Methods 9:633-634. | Python |
+| [matlab-computer-vision-routines](https://github.com/icaoberg/matlab-computer-vision-routines) | — | MATLAB |
+| [latex-resume](https://github.com/icaoberg/latex-resume) | A resume document style for XeLaTeX | TeX |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
