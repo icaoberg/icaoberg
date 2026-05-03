@@ -26,11 +26,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [murphylab139](https://github.com/icaoberg/murphylab139) | S.-C. Chen, T. Zhao, G. J. Gordon, and R. F. Murphy (2007). Automated Image Analysis of Protein Localization in Budding Yeast. Bioinformatics 23:i66-i71. | HTML |
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
-| [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
-| [murphylab186](https://github.com/icaoberg/murphylab186) | The software needed to recreate the tables and figures for the article: B.H. Cho, I. Cao-Berg, J.A. Bakal, and R.F. Murphy (2012) OMERO.searcher: Content-based image search for microscope images. Nature Methods 9:633-634. | Python |
-| [matlab-computer-vision-routines](https://github.com/icaoberg/matlab-computer-vision-routines) | — | MATLAB |
+| [waldo](https://github.com/icaoberg/waldo) | Waldo Project | Python |
+| [omero-features](https://github.com/icaoberg/omero-features) | OMERO.features | Python |
+| [pyslid-docs](https://github.com/icaoberg/pyslid-docs) | Sphinx documentation for pyslid | Python |
+| [ricerca-docs](https://github.com/icaoberg/ricerca-docs) | Sphinx documentation for ricerca. | Python |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
