@@ -27,10 +27,10 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 | Project | Description | Language |
 |---------|-------------|----------|
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
+| [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
 | [falcon-docs](https://github.com/icaoberg/falcon-docs) | htSphinx documentation for FALCON | Python |
 | [falcon](https://github.com/icaoberg/falcon) | FALCON: Feedback Adaptive Loop for Content-Based Retrieval | Python |
 | [singularity-matlabmcr2018a](https://github.com/icaoberg/singularity-matlabmcr2018a) | Matlab MCR 2018a | Singularity |
-| [singularity-matlabmcr2019a](https://github.com/icaoberg/singularity-matlabmcr2019a) | Matlab MCR 2019a | Singularity |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
