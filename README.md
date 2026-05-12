@@ -49,11 +49,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#178](https://github.com/pscedu/psc-wpdocs/pull/178) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
-2. 🗣 Commented on [#178](https://github.com/pscedu/psc-wpdocs/pull/178#issuecomment-4349560572) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
-3. 💪 Opened PR [#178](https://github.com/pscedu/psc-wpdocs/pull/178) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
-4. 🚀 Published release [Version 2.3.1](https://github.com/icaoberg/singularity-boxes/releases/tag/v2.3.1) in [icaoberg/singularity-boxes](https://github.com/icaoberg/singularity-boxes)
-5. 🚀 Published release [Version 6.0](https://github.com/icaoberg/singularity-chalk-cli/releases/tag/v6.0) in [icaoberg/singularity-chalk-cli](https://github.com/icaoberg/singularity-chalk-cli)
+1. 🚀 Published release [Version 3.3](https://github.com/CBDatCMU/singularity-visidata/releases/tag/v3.3) in [CBDatCMU/singularity-visidata](https://github.com/CBDatCMU/singularity-visidata)
+2. 🚀 Published release [Version 1.2.4](https://github.com/CBDatCMU/singularity-dust/releases/tag/v1.2.4) in [CBDatCMU/singularity-dust](https://github.com/CBDatCMU/singularity-dust)
+3. 🚀 Published release [Version 11.1.0](https://github.com/CBDatCMU/singularity-octave/releases/tag/v11.1.0) in [CBDatCMU/singularity-octave](https://github.com/CBDatCMU/singularity-octave)
+4. 🎉 Merged PR [#178](https://github.com/pscedu/psc-wpdocs/pull/178) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
+5. 🗣 Commented on [#178](https://github.com/pscedu/psc-wpdocs/pull/178#issuecomment-4349560572) in [pscedu/psc-wpdocs](https://github.com/pscedu/psc-wpdocs)
 <!--END_SECTION:activity-->
 
 ### Streak
