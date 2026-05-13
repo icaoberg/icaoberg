@@ -26,9 +26,9 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [python-bst](https://github.com/icaoberg/python-bst) | Just a simple naive implementation in Python | Python |
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
 | [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
+| [python-bst](https://github.com/icaoberg/python-bst) | Just a simple naive implementation in Python | Python |
 | [python-deque](https://github.com/icaoberg/python-deque) | Just a simple naive implementation in Python | Python |
 | [python-splay-tree](https://github.com/icaoberg/python-splay-tree) | Just a simple naive implementation in Python | Python |
 <!-- FEATURED-PROJECTS:END -->
