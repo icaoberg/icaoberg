@@ -49,11 +49,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 2.5.2](https://github.com/CBDatCMU/singularity-bamtools/releases/tag/v2.5.2) in [CBDatCMU/singularity-bamtools](https://github.com/CBDatCMU/singularity-bamtools)
-2. 🚀 Published release [Version 3.0.0](https://github.com/CBDatCMU/singularity-gotop/releases/tag/v3.0.0) in [CBDatCMU/singularity-gotop](https://github.com/CBDatCMU/singularity-gotop)
-3. 🚀 Published release [Version 3.3](https://github.com/CBDatCMU/singularity-visidata/releases/tag/v3.3) in [CBDatCMU/singularity-visidata](https://github.com/CBDatCMU/singularity-visidata)
-4. 🚀 Published release [Version 1.2.4](https://github.com/CBDatCMU/singularity-dust/releases/tag/v1.2.4) in [CBDatCMU/singularity-dust](https://github.com/CBDatCMU/singularity-dust)
-5. 🚀 Published release [Version 11.1.0](https://github.com/CBDatCMU/singularity-octave/releases/tag/v11.1.0) in [CBDatCMU/singularity-octave](https://github.com/CBDatCMU/singularity-octave)
+1. 🔒 Closed issue [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+2. 🗣 Commented on [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2#issuecomment-4529635479) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+3. 🔒 Closed issue [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+4. 🗣 Commented on [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11#issuecomment-4529634915) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+5. 🔒 Closed issue [#3](https://github.com/CBDatCMU/cluster-documentation/issues/3) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 <!--END_SECTION:activity-->
 
 ### Streak
