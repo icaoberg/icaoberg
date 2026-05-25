@@ -49,11 +49,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-2. 🗣 Commented on [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2#issuecomment-4529635479) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-3. 🔒 Closed issue [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-4. 🗣 Commented on [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11#issuecomment-4529634915) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-5. 🔒 Closed issue [#3](https://github.com/CBDatCMU/cluster-documentation/issues/3) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1. 💪 Opened PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+2. 🔒 Closed issue [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+3. 🗣 Commented on [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2#issuecomment-4529635479) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+4. 🔒 Closed issue [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+5. 🗣 Commented on [#11](https://github.com/CBDatCMU/cluster-documentation/issues/11#issuecomment-4529634915) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 <!--END_SECTION:activity-->
 
 ### Streak
