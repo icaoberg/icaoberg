@@ -27,8 +27,8 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 | Project | Description | Language |
 |---------|-------------|----------|
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
-| [python-get-forecast](https://github.com/icaoberg/python-get-forecast) | Get Pittsburgh's nightly forecast from the National Weather Service | Python |
 | [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
+| [python-get-forecast](https://github.com/icaoberg/python-get-forecast) | Get Pittsburgh's nightly forecast from the National Weather Service | Python |
 | [mimetex](https://github.com/icaoberg/mimetex) | A fork of mimetex from John Forkosh. | C |
 | [python-bst](https://github.com/icaoberg/python-bst) | Just a simple naive implementation in Python | Python |
 <!-- FEATURED-PROJECTS:END -->
