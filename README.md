@@ -49,11 +49,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.15.1](https://github.com/CBDatCMU/singularity-star-fusion/releases/tag/v1.15.1) in [CBDatCMU/singularity-star-fusion](https://github.com/CBDatCMU/singularity-star-fusion)
-2. 🚀 Published release [Version 0.40](https://github.com/CBDatCMU/singularity-trimmomatic/releases/tag/v0.40) in [CBDatCMU/singularity-trimmomatic](https://github.com/CBDatCMU/singularity-trimmomatic)
-3. 💪 Opened PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-4. 🔒 Closed issue [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-5. 🗣 Commented on [#2](https://github.com/CBDatCMU/cluster-documentation/issues/2#issuecomment-4529635479) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1. 🎉 Merged PR [#6](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/6) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
+2. 💪 Opened PR [#6](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/6) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
+3. 🎉 Merged PR [#5](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/5) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
+4. 💪 Opened PR [#5](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/5) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
+5. ℹ️ Assigned PR [#5](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/5) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
 <!--END_SECTION:activity-->
 
 ### Streak
