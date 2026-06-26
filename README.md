@@ -49,11 +49,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-2. ℹ️ Assigned PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-3. ℹ️ Assigned PR [#14](https://github.com/CBDatCMU/cluster-documentation/pull/14) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-4. 🎉 Merged PR [#6](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/6) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
-5. 💪 Opened PR [#6](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/6) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
+1. 🔒 Closed issue [#4](https://github.com/CBDatCMU/cluster-documentation/issues/4) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+2. 🎉 Merged PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+3. ℹ️ Assigned PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+4. ℹ️ Assigned PR [#14](https://github.com/CBDatCMU/cluster-documentation/pull/14) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+5. 🎉 Merged PR [#6](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics/pull/6) in [CBDatCMU/benchmark-spatial-transcriptomics](https://github.com/CBDatCMU/benchmark-spatial-transcriptomics)
 <!--END_SECTION:activity-->
 
 ### Streak
