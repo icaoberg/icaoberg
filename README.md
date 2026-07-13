@@ -49,11 +49,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [20260702](https://github.com/pscedu/bridges2-benchmarking-scala/releases/tag/20260702) in [pscedu/bridges2-benchmarking-scala](https://github.com/pscedu/bridges2-benchmarking-scala)
-2. 🚀 Published release [20260702](https://github.com/CBDatCMU/benchmark-scala/releases/tag/20260702) in [CBDatCMU/benchmark-scala](https://github.com/CBDatCMU/benchmark-scala)
-3. 🔒 Closed issue [#4](https://github.com/CBDatCMU/cluster-documentation/issues/4) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-4. 🎉 Merged PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
-5. ℹ️ Assigned PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+1. ❌ Closed PR [#1](https://github.com/icaoberg/icaoberg/pull/1) in [icaoberg/icaoberg](https://github.com/icaoberg/icaoberg)
+2. 🚀 Published release [20260702](https://github.com/pscedu/bridges2-benchmarking-scala/releases/tag/20260702) in [pscedu/bridges2-benchmarking-scala](https://github.com/pscedu/bridges2-benchmarking-scala)
+3. 🚀 Published release [20260702](https://github.com/CBDatCMU/benchmark-scala/releases/tag/20260702) in [CBDatCMU/benchmark-scala](https://github.com/CBDatCMU/benchmark-scala)
+4. 🔒 Closed issue [#4](https://github.com/CBDatCMU/cluster-documentation/issues/4) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
+5. 🎉 Merged PR [#13](https://github.com/CBDatCMU/cluster-documentation/pull/13) in [CBDatCMU/cluster-documentation](https://github.com/CBDatCMU/cluster-documentation)
 <!--END_SECTION:activity-->
 
 ### Streak
