@@ -29,8 +29,8 @@ jobs:
           filename: assets/top-langs.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_count: 10
+          plugin_languages_limit: 10
           plugin_languages_ignored: html, css, c, m
           plugin_languages_details: percentage
-          plugin_languages_type: programming
+          plugin_languages_categories: programming
           output_action: commit
