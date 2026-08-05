@@ -42,9 +42,9 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 
 ## GitHub
 
-### Trophies
+### Streak
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=icaoberg&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=icaoberg&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### Activity
 
