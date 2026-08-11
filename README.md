@@ -67,9 +67,9 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 # Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Data structures - Circular Queue](https://www.andrew.cmu.edu/user/icaoberg/notebooks/data-structures---circular-queue/)
-- [Data structures - Doubly Linked List](https://www.andrew.cmu.edu/user/icaoberg/notebooks/data-structures---doubly-linked-list/)
-- [Data structures - Linked List](https://www.andrew.cmu.edu/user/icaoberg/notebooks/data-structures---linked-list/)
-- [Data structures - Priority Queue](https://www.andrew.cmu.edu/user/icaoberg/notebooks/data-structures---priority-queue/)
-- [Data structures - Queue](https://www.andrew.cmu.edu/user/icaoberg/notebooks/data-structures---queue/)
+- [What is Hugging Face?](https://www.andrew.cmu.edu/user/icaoberg/post/2026-08-11-what-is-hugging-face/)
+- [Lustre Components: A Glossary](https://www.andrew.cmu.edu/user/icaoberg/post/2026-08-10-lustre-components-a-glossary/)
+- [What is Lustre?](https://www.andrew.cmu.edu/user/icaoberg/post/2026-08-10-what-is-lustre/)
+- [What is a File System?](https://www.andrew.cmu.edu/user/icaoberg/post/2026-08-08-what-is-a-file-system/)
+- [Availability](https://www.andrew.cmu.edu/user/icaoberg/availability/)
 <!-- BLOG-POST-LIST:END -->
