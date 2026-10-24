@@ -26,11 +26,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
+| [nvidia-personaplex](https://github.com/icaoberg/nvidia-personaplex) | — | Python |
 | [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
+| [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
 | [python-get-forecast](https://github.com/icaoberg/python-get-forecast) | Get Pittsburgh's nightly forecast from the National Weather Service | Python |
 | [alphafold3-examples](https://github.com/icaoberg/alphafold3-examples) | AlphaFold 3 Examples on Bridges-2 | Python |
-| [py-ppt2movie](https://github.com/icaoberg/py-ppt2movie) | A simple script that converts PPT files into a movie file | Python |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
