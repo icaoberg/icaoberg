@@ -26,9 +26,9 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [python-get-forecast](https://github.com/icaoberg/python-get-forecast) | Get Pittsburgh's nightly forecast from the National Weather Service | Python |
 | [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
+| [python-get-forecast](https://github.com/icaoberg/python-get-forecast) | Get Pittsburgh's nightly forecast from the National Weather Service | Python |
 | [nvidia-personaplex](https://github.com/icaoberg/nvidia-personaplex) | — | — |
 | [alphafold3-examples](https://github.com/icaoberg/alphafold3-examples) | AlphaFold 3 Examples on Bridges-2 | Python |
 <!-- FEATURED-PROJECTS:END -->
