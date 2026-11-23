@@ -25,11 +25,11 @@ When I'm not knee-deep in code, you'll find me in the kitchen trying out a new r
 <!-- FEATURED-PROJECTS:START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [snakemake-tutorial](https://github.com/icaoberg/snakemake-tutorial) | — | Jupyter Notebook |
 | [animatediff-examples](https://github.com/icaoberg/animatediff-examples) | Run AnimateDiff text-to-video on Apple Silicon (MPS): conda env, model download script and examples | Shell |
 | [py-ppt2movie](https://github.com/icaoberg/py-ppt2movie) | A simple script that converts PPT files into a movie file | Python |
 | [pittsburgh-weather](https://github.com/icaoberg/pittsburgh-weather) | Get the Pittsburgh weather | Python |
 | [icaoberg](https://github.com/icaoberg/icaoberg) | Fancy README file | — |
-| [python-get-forecast](https://github.com/icaoberg/python-get-forecast) | Get Pittsburgh's nightly forecast from the National Weather Service | Python |
 <!-- FEATURED-PROJECTS:END -->
 
 ## Tech Stack
